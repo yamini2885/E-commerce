@@ -1,25 +1,18 @@
-import { useState } from 'react'
-
-import './App.css'
-<<<<<<< HEAD
 import Home from './components/Home'
-=======
-import SignupPage from './components/SignupPage'
+
+import {Route,Routes} from "react-router-dom"
 import LoginPage from './components/LoginPage'
->>>>>>> c579decb17d783ceae8c9e781e85112a4f1cdc82
-
+import SignupPage from './components/SignupPage'
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-<<<<<<< HEAD
-      <Home />
-=======
-    {/* <SignupPage/> */}
-    <LoginPage/>
+    <Routes>
+      <Route path="/" element={<Home></Home>}> </Route>
+      <Route path="/login" element={<LoginPage></LoginPage>}></Route>
+      <Route path="/signup" element={<SignupPage></SignupPage>}></Route>
+    </Routes>
       
->>>>>>> c579decb17d783ceae8c9e781e85112a4f1cdc82
+     
     </>
   )
 }

@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import "./NavBar.css";
 import FloraHarborWord from "../assets/FloraHarborWord.png";
 import Earth_Logo from "../assets/Earth_Logo.png";
+import { Link } from 'react-router-dom';
+import axios from "axios"
 
 // Main categories with subcategories
 const categories = [
@@ -67,8 +69,8 @@ function NavBar() {
             <button type="submit">Search</button>
           </form>
           <div className="navbar__auth">
-            <button className="login-btn">Login</button>
-            <button className="signup-btn">Sign Up</button>
+            <Link to="/login"><button className="login-btn">Login</button></Link>
+            <Link to="/signup"><button className="signup-btn">Sign Up</button></Link>
           </div>
         </div>
       </nav>
