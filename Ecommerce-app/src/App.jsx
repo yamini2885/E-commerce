@@ -1,25 +1,19 @@
 import { useState } from 'react'
 
 import './App.css'
-<<<<<<< HEAD
-import Home from './components/Home'
-=======
 import SignupPage from './components/SignupPage'
 import LoginPage from './components/LoginPage'
->>>>>>> c579decb17d783ceae8c9e781e85112a4f1cdc82
+import IndoorPlants from './components/IndoorPlants'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-<<<<<<< HEAD
-      <Home />
-=======
     {/* <SignupPage/> */}
-    <LoginPage/>
+    {/* <LoginPage/> */}
+    <IndoorPlants/>
       
->>>>>>> c579decb17d783ceae8c9e781e85112a4f1cdc82
     </>
   )
 }
