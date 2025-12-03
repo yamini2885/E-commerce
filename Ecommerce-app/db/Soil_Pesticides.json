@@ -1,0 +1,1354 @@
+{
+  "Soil_Pestisides": [
+    {
+      "Unnamed: 0": 1,
+      "product_name": "Premium Garden Loamy Soil",
+      "category": "Soil",
+      "origin": "India",
+      "climate_suitability": "Tropical, Temperate",
+      "zone": "[7, 11]",
+      "img_url": "https://example.com/soil/garden_loamy.jpg",
+      "price": 500.00,
+      "selling_price": 450.00,
+      "discount_percent": 10,
+      "rating": 4.8,
+      "quantity": "50 kg",
+      "description": "Rich loamy soil enriched with natural compost, ideal for vegetables, herbs, and flowering plants.",
+      "benefits": [
+        "Improves soil fertility",
+        "Retains moisture",
+        "Supports healthy root growth",
+        "Environmentally friendly"
+      ],
+      "directions_to_use": [
+        "Spread 2–4 inches on garden beds",
+        "Mix well with existing soil",
+        "Water thoroughly after application",
+        "Replenish every 4–6 months"
+      ]
+    },
+    {
+      "Unnamed: 0": 2,
+      "product_name": "Neem Oil Organic Pesticide",
+      "category": "Pesticide",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 12]",
+      "img_url": "https://example.com/pesticides/neem_oil.jpg",
+      "price": 300.00,
+      "selling_price": 270.00,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "quantity": "500 ml",
+      "description": "Organic neem oil pesticide effective against a wide range of garden pests and safe for vegetables.",
+      "benefits": [
+        "Eco-friendly and non-toxic",
+        "Repels common garden insects",
+        "Supports healthy plant growth",
+        "Safe for edible crops"
+      ],
+      "directions_to_use": [
+        "Dilute 2 ml of neem oil per liter of water",
+        "Spray on leaves early morning or evening",
+        "Repeat every 7–10 days",
+        "Store in cool, dark place"
+      ]
+    },
+    {
+      "Unnamed: 0": 3,
+      "product_name": "Coco Peat Soil Medium",
+      "category": "Soil",
+      "origin": "Sri Lanka",
+      "climate_suitability": "Tropical",
+      "zone": "[8, 11]",
+      "img_url": "https://example.com/soil/coco_peat_medium.jpg",
+      "price": 400.00,
+      "selling_price": 360.00,
+      "discount_percent": 10,
+      "rating": 4.6,
+      "quantity": "40 kg",
+      "description": "High-quality coco peat soil ideal for potted plants, seed germination, and hydroponics.",
+      "benefits": [
+        "Retains water efficiently",
+        "Promotes healthy root growth",
+        "Lightweight and easy to handle",
+        "pH balanced for most plants"
+      ],
+      "directions_to_use": [
+        "Mix with potting soil in 1:1 ratio",
+        "Keep soil consistently moist",
+        "Use as top dressing or seed medium",
+        "Rehydrate if dry"
+      ]
+    },
+    {
+      "Unnamed: 0": 4,
+      "product_name": "Potting Mix Vegetable Blend",
+      "category": "Soil",
+      "origin": "Netherlands",
+      "climate_suitability": "Temperate",
+      "zone": "[5, 10]",
+      "img_url": "https://example.com/soil/vegetable_potting_mix.jpg",
+      "price": 550.00,
+      "selling_price": 500.00,
+      "discount_percent": 9,
+      "rating": 4.9,
+      "quantity": "50 kg",
+      "description": "Premium potting mix with composted organic matter, perfect for vegetables and herbs in containers.",
+      "benefits": [
+        "Nutrient-rich",
+        "Lightweight and well-draining",
+        "Promotes healthy plant growth",
+        "Reduces transplant shock"
+      ],
+      "directions_to_use": [
+        "Fill pots or raised beds",
+        "Mix well with native soil",
+        "Water after planting",
+        "Replenish as needed"
+      ]
+    },
+    {
+      "Unnamed: 0": 5,
+      "product_name": "Bordeaux Mixture Fungicide",
+      "category": "Pesticide",
+      "origin": "France",
+      "climate_suitability": "Temperate, Tropical",
+      "zone": "[5, 11]",
+      "img_url": "https://example.com/pesticides/bordeaux_mixture.jpg",
+      "price": 250.00,
+      "selling_price": 225.00,
+      "discount_percent": 10,
+      "rating": 4.5,
+      "quantity": "1 L",
+      "description": "Effective fungicide for prevention of fungal diseases in vegetable and fruit crops.",
+      "benefits": [
+        "Protects against blight and mildew",
+        "Eco-friendly with minimal residues",
+        "Easy to apply",
+        "Compatible with most crops"
+      ],
+      "directions_to_use": [
+        "Dilute 20 ml per liter of water",
+        "Spray on affected plants",
+        "Apply every 10–14 days",
+        "Avoid spraying during hot noon hours"
+      ]
+    },
+ {
+      "Unnamed: 0": 6,
+      "product_name": "Garden Compost Rich Organic",
+      "category": "Soil",
+      "origin": "India",
+      "climate_suitability": "Tropical, Temperate",
+      "zone": "[7, 11]",
+      "img_url": "https://example.com/soil/garden_compost_rich.jpg",
+      "price": 480.00,
+      "selling_price": 430.00,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "quantity": "40 kg",
+      "description": "Premium organic compost for enhancing garden soil fertility and promoting healthy plant growth.",
+      "benefits": [
+        "Enriches soil nutrients",
+        "Improves soil structure",
+        "Boosts microbial activity",
+        "Environmentally friendly"
+      ],
+      "directions_to_use": [
+        "Mix 3–5 inches with garden soil",
+        "Apply around plant base",
+        "Water thoroughly after use",
+        "Reapply every season"
+      ]
+    },
+    {
+      "Unnamed: 0": 7,
+      "product_name": "All-Purpose Potting Soil Mix",
+      "category": "Soil",
+      "origin": "USA",
+      "climate_suitability": "Temperate",
+      "zone": "[4, 10]",
+      "img_url": "https://example.com/soil/all_purpose_potting.jpg",
+      "price": 520.00,
+      "selling_price": 470.00,
+      "discount_percent": 10,
+      "rating": 4.8,
+      "quantity": "50 kg",
+      "description": "Lightweight potting soil suitable for flowers, vegetables, and indoor plants.",
+      "benefits": [
+        "Excellent drainage",
+        "Rich in organic matter",
+        "Supports root development",
+        "Reduces risk of overwatering"
+      ],
+      "directions_to_use": [
+        "Fill pots or containers",
+        "Mix lightly with native soil",
+        "Water after planting",
+        "Replenish as needed"
+      ]
+    },
+    {
+      "Unnamed: 0": 8,
+      "product_name": "Vermicompost Premium Grade",
+      "category": "Soil",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 11]",
+      "img_url": "https://example.com/soil/vermicompost_premium.jpg",
+      "price": 600.00,
+      "selling_price": 540.00,
+      "discount_percent": 10,
+      "rating": 4.9,
+      "quantity": "25 kg",
+      "description": "Organic vermicompost enriched with nutrients and beneficial microbes for all types of plants.",
+      "benefits": [
+        "Improves soil fertility",
+        "Enhances plant growth",
+        "Eco-friendly and chemical-free",
+        "Supports beneficial microbe activity"
+      ],
+      "directions_to_use": [
+        "Apply 2–3 inches to soil surface",
+        "Mix gently with existing soil",
+        "Water after application",
+        "Reapply monthly for best results"
+      ]
+    },
+    {
+      "Unnamed: 0": 9,
+      "product_name": "Neem Cake Organic Fertilizer",
+      "category": "Soil",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 11]",
+      "img_url": "https://example.com/soil/neem_cake.jpg",
+      "price": 350.00,
+      "selling_price": 320.00,
+      "discount_percent": 8,
+      "rating": 4.6,
+      "quantity": "20 kg",
+      "description": "Organic neem cake powder that enriches soil and acts as a natural pest deterrent.",
+      "benefits": [
+        "Suppresses soil pests",
+        "Enhances soil fertility",
+        "Promotes healthy plant growth",
+        "Chemical-free alternative"
+      ],
+      "directions_to_use": [
+        "Mix 500 g per square meter into soil",
+        "Apply during planting or top dressing",
+        "Water thoroughly",
+        "Repeat every 2–3 months"
+      ]
+    },
+    {
+      "Unnamed: 0": 10,
+      "product_name": "Neem Oil Pest Control",
+      "category": "Pesticide",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 12]",
+      "img_url": "https://example.com/pesticides/neem_oil_pest_control.jpg",
+      "price": 320.00,
+      "selling_price": 290.00,
+      "discount_percent": 9,
+      "rating": 4.8,
+      "quantity": "500 ml",
+      "description": "Organic neem oil pesticide effective against aphids, mealybugs, and other garden pests.",
+      "benefits": [
+        "Non-toxic to humans and pets",
+        "Repels common pests",
+        "Supports sustainable gardening",
+        "Safe for edible crops"
+      ],
+      "directions_to_use": [
+        "Dilute 2 ml neem oil per liter of water",
+        "Spray on leaves in early morning or evening",
+        "Repeat every 7 days",
+        "Avoid direct sunlight when spraying"
+      ]
+    },
+    {
+      "Unnamed: 0": 11,
+      "product_name": "Bordeaux Mixture Fungicide",
+      "category": "Pesticide",
+      "origin": "France",
+      "climate_suitability": "Temperate, Tropical",
+      "zone": "[5, 11]",
+      "img_url": "https://example.com/pesticides/bordeaux_mixture.jpg",
+      "price": 250.00,
+      "selling_price": 225.00,
+      "discount_percent": 10,
+      "rating": 4.5,
+      "quantity": "1 L",
+      "description": "Prevents and treats fungal diseases in vegetable and fruit crops.",
+      "benefits": [
+        "Protects against mildew and blight",
+        "Eco-friendly with minimal residues",
+        "Easy to apply",
+        "Safe for most crops"
+      ],
+      "directions_to_use": [
+        "Dilute 20 ml per liter of water",
+        "Spray on affected plants",
+        "Apply every 10–14 days",
+        "Avoid spraying during hot midday"
+      ]
+    },
+    {
+      "Unnamed: 0": 12,
+      "product_name": "Potassium Sulphate Fertilizer",
+      "category": "Soil",
+      "origin": "Germany",
+      "climate_suitability": "Temperate",
+      "zone": "[4, 10]",
+      "img_url": "https://example.com/soil/potassium_sulphate.jpg",
+      "price": 400.00,
+      "selling_price": 360.00,
+      "discount_percent": 10,
+      "rating": 4.6,
+      "quantity": "25 kg",
+      "description": "Enhances soil potassium content for better flowering and fruiting in crops.",
+      "benefits": [
+        "Boosts crop yield",
+        "Improves flowering and fruit quality",
+        "Water-soluble and effective",
+        "Supports nutrient balance"
+      ],
+      "directions_to_use": [
+        "Apply 20–30 g per plant",
+        "Mix with soil before planting",
+        "Water immediately after application",
+        "Repeat every 30 days for best results"
+      ]
+    },
+    {
+      "Unnamed: 0": 13,
+      "product_name": "Garden Humus Soil Enriched",
+      "category": "Soil",
+      "origin": "Netherlands",
+      "climate_suitability": "Temperate, Tropical",
+      "zone": "[5, 11]",
+      "img_url": "https://example.com/soil/garden_humus.jpg",
+      "price": 550.00,
+      "selling_price": 500.00,
+      "discount_percent": 9,
+      "rating": 4.7,
+      "quantity": "50 kg",
+      "description": "Humus-rich soil ideal for vegetables, flowers, and potting applications.",
+      "benefits": [
+        "Retains moisture efficiently",
+        "Enhances nutrient availability",
+        "Promotes healthy root system",
+        "Reduces soil compaction"
+      ],
+      "directions_to_use": [
+        "Spread 2–3 inches over garden beds",
+        "Mix lightly with native soil",
+        "Water thoroughly",
+        "Replenish every season"
+      ]
+    },
+    {
+      "Unnamed: 0": 14,
+      "product_name": "Copper Oxychloride Fungicide",
+      "category": "Pesticide",
+      "origin": "Italy",
+      "climate_suitability": "Temperate",
+      "zone": "[5, 10]",
+      "img_url": "https://example.com/pesticides/copper_oxychloride.jpg",
+      "price": 280.00,
+      "selling_price": 250.00,
+      "discount_percent": 11,
+      "rating": 4.6,
+      "quantity": "500 g",
+      "description": "Protects plants from fungal infections such as blight, mildew, and leaf spots.",
+      "benefits": [
+        "Long-lasting protection",
+        "Safe for most crops",
+        "Prevents spread of fungal diseases",
+        "Easy to mix and apply"
+      ],
+      "directions_to_use": [
+        "Mix 10 g per liter of water",
+        "Spray on leaves and stems",
+        "Repeat every 7–10 days",
+        "Avoid applying under strong sunlight"
+      ]
+    },
+    {
+      "Unnamed: 0": 15,
+      "product_name": "Liquid Seaweed Extract Fertilizer",
+      "category": "Soil",
+      "origin": "USA",
+      "climate_suitability": "All Climates",
+      "zone": "[3, 12]",
+      "img_url": "https://example.com/soil/liquid_seaweed.jpg",
+      "price": 350.00,
+      "selling_price": 315.00,
+      "discount_percent": 10,
+      "rating": 4.8,
+      "quantity": "1 L",
+      "description": "Natural seaweed extract for boosting soil nutrients and plant growth.",
+      "benefits": [
+        "Stimulates root development",
+        "Increases nutrient uptake",
+        "Enhances plant stress tolerance",
+        "Eco-friendly liquid fertilizer"
+      ],
+      "directions_to_use": [
+        "Dilute 10 ml per liter of water",
+        "Apply to soil or foliage once a week",
+        "Avoid over-concentration",
+        "Store in a cool, dry place"
+      ]
+    },
+ {
+      "Unnamed: 0": 16,
+      "product_name": "Organic Garden Mulch",
+      "category": "Soil",
+      "origin": "USA",
+      "climate_suitability": "Temperate, Tropical",
+      "zone": "[4, 11]",
+      "img_url": "https://example.com/soil/organic_garden_mulch.jpg",
+      "price": 450.00,
+      "selling_price": 410.00,
+      "discount_percent": 9,
+      "rating": 4.7,
+      "quantity": "30 kg",
+      "description": "Natural organic mulch for garden beds, retaining moisture and enriching soil nutrients.",
+      "benefits": [
+        "Reduces soil evaporation",
+        "Prevents weed growth",
+        "Adds organic matter to soil",
+        "Improves soil structure"
+      ],
+      "directions_to_use": [
+        "Spread 2–3 inches thick around plants",
+        "Keep mulch 1–2 inches away from plant stems",
+        "Replenish every season",
+        "Water thoroughly after application"
+      ]
+    },
+    {
+      "Unnamed: 0": 17,
+      "product_name": "Super Phosphate Fertilizer",
+      "category": "Soil",
+      "origin": "Germany",
+      "climate_suitability": "Temperate",
+      "zone": "[4, 10]",
+      "img_url": "https://example.com/soil/super_phosphate.jpg",
+      "price": 380.00,
+      "selling_price": 345.00,
+      "discount_percent": 9,
+      "rating": 4.6,
+      "quantity": "25 kg",
+      "description": "High-quality super phosphate fertilizer to promote strong root and flower development.",
+      "benefits": [
+        "Enhances root growth",
+        "Boosts flowering and fruiting",
+        "Water-soluble and effective",
+        "Supports nutrient balance in soil"
+      ],
+      "directions_to_use": [
+        "Apply 20–30 g per plant",
+        "Mix thoroughly with soil before planting",
+        "Water after application",
+        "Repeat every 2–3 months for optimal growth"
+      ]
+    },
+    {
+      "Unnamed: 0": 18,
+      "product_name": "Azadirachtin Bio-Pesticide",
+      "category": "Pesticide",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 12]",
+      "img_url": "https://example.com/pesticides/azadirachtin.jpg",
+      "price": 400.00,
+      "selling_price": 360.00,
+      "discount_percent": 10,
+      "rating": 4.8,
+      "quantity": "250 ml",
+      "description": "Organic bio-pesticide derived from neem, effective against sap-sucking insects and caterpillars.",
+      "benefits": [
+        "Eco-friendly and non-toxic",
+        "Repels pests naturally",
+        "Safe for edible plants",
+        "Supports sustainable agriculture"
+      ],
+      "directions_to_use": [
+        "Dilute 1–2 ml per liter of water",
+        "Spray early morning or evening",
+        "Repeat every 7–10 days",
+        "Avoid spraying in direct sunlight"
+      ]
+    },
+    {
+      "Unnamed: 0": 19,
+      "product_name": "Biochar Enriched Soil",
+      "category": "Soil",
+      "origin": "Netherlands",
+      "climate_suitability": "Temperate, Tropical",
+      "zone": "[5, 11]",
+      "img_url": "https://example.com/soil/biochar_enriched.jpg",
+      "price": 600.00,
+      "selling_price": 550.00,
+      "discount_percent": 8,
+      "rating": 4.9,
+      "quantity": "40 kg",
+      "description": "Soil enriched with biochar to improve soil fertility, structure, and water retention.",
+      "benefits": [
+        "Increases soil microbial activity",
+        "Improves water retention",
+        "Enhances nutrient availability",
+        "Eco-friendly and sustainable"
+      ],
+      "directions_to_use": [
+        "Mix 2–3 kg biochar per square meter",
+        "Combine with garden soil",
+        "Water thoroughly after mixing",
+        "Reapply every 6 months"
+      ]
+    },
+    {
+      "Unnamed: 0": 20,
+      "product_name": "Copper Fungicide Concentrate",
+      "category": "Pesticide",
+      "origin": "Italy",
+      "climate_suitability": "Temperate",
+      "zone": "[5, 10]",
+      "img_url": "https://example.com/pesticides/copper_fungicide.jpg",
+      "price": 300.00,
+      "selling_price": 270.00,
+      "discount_percent": 10,
+      "rating": 4.6,
+      "quantity": "500 ml",
+      "description": "Fungicide effective against leaf spot, blight, and mildew in vegetable and fruit crops.",
+      "benefits": [
+        "Protects plants from fungal infections",
+        "Safe for most crops",
+        "Long-lasting effect",
+        "Easy to mix and apply"
+      ],
+      "directions_to_use": [
+        "Dilute 10 ml per liter of water",
+        "Spray thoroughly on affected areas",
+        "Repeat every 7–10 days",
+        "Avoid spraying during hot noon hours"
+      ]
+    },
+    {
+      "Unnamed: 0": 21,
+      "product_name": "Organic Vermicompost Pellets",
+      "category": "Soil",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 11]",
+      "img_url": "https://example.com/soil/vermicompost_pellets.jpg",
+      "price": 500.00,
+      "selling_price": 450.00,
+      "discount_percent": 10,
+      "rating": 4.8,
+      "quantity": "30 kg",
+      "description": "Pelletized vermicompost for easy application, enriching soil with nutrients and microbes.",
+      "benefits": [
+        "Enhances soil fertility",
+        "Promotes healthy plant growth",
+        "Eco-friendly and chemical-free",
+        "Supports beneficial microbes"
+      ],
+      "directions_to_use": [
+        "Apply 200–300 g per plant",
+        "Mix with soil surface or potting mix",
+        "Water after application",
+        "Reapply every 2–3 months"
+      ]
+    },
+    {
+      "Unnamed: 0": 22,
+      "product_name": "Liquid Bio-Fertilizer Seaweed Extract",
+      "category": "Soil",
+      "origin": "USA",
+      "climate_suitability": "All Climates",
+      "zone": "[3, 12]",
+      "img_url": "https://example.com/soil/liquid_biofertilizer.jpg",
+      "price": 380.00,
+      "selling_price": 340.00,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "quantity": "1 L",
+      "description": "Liquid fertilizer enriched with seaweed extract for faster growth and stress tolerance.",
+      "benefits": [
+        "Stimulates root growth",
+        "Increases nutrient absorption",
+        "Improves plant stress tolerance",
+        "Eco-friendly liquid fertilizer"
+      ],
+      "directions_to_use": [
+        "Dilute 10 ml per liter of water",
+        "Apply to soil or foliar spray once a week",
+        "Avoid over-concentration",
+        "Store in a cool, dry place"
+      ]
+    },
+    {
+      "Unnamed: 0": 23,
+      "product_name": "Mancozeb Fungicide",
+      "category": "Pesticide",
+      "origin": "India",
+      "climate_suitability": "Tropical, Temperate",
+      "zone": "[6, 11]",
+      "img_url": "https://example.com/pesticides/mancozeb.jpg",
+      "price": 270.00,
+      "selling_price": 245.00,
+      "discount_percent": 9,
+      "rating": 4.5,
+      "quantity": "500 g",
+      "description": "Broad-spectrum fungicide for controlling blights, downy mildew, and leaf spots.",
+      "benefits": [
+        "Protects against fungal diseases",
+        "High efficacy",
+        "Safe when used as directed",
+        "Compatible with most crops"
+      ],
+      "directions_to_use": [
+        "Mix 10 g per liter of water",
+        "Spray evenly on affected plants",
+        "Repeat every 10 days",
+        "Avoid spraying in strong sunlight"
+      ]
+    },
+    {
+      "Unnamed: 0": 24,
+      "product_name": "Garden Potting Mix Premium",
+      "category": "Soil",
+      "origin": "Netherlands",
+      "climate_suitability": "Temperate, Tropical",
+      "zone": "[5, 11]",
+      "img_url": "https://example.com/soil/potting_mix_premium.jpg",
+      "price": 550.00,
+      "selling_price": 500.00,
+      "discount_percent": 9,
+      "rating": 4.8,
+      "quantity": "50 kg",
+      "description": "Premium potting mix for vegetables, herbs, and flowers with excellent drainage and nutrients.",
+      "benefits": [
+        "Enhances plant growth",
+        "Lightweight and well-draining",
+        "Rich in organic matter",
+        "Reduces transplant shock"
+      ],
+      "directions_to_use": [
+        "Fill pots or raised beds",
+        "Mix lightly with existing soil",
+        "Water thoroughly after planting",
+        "Replenish as needed"
+      ]
+    },
+    {
+      "Unnamed: 0": 25,
+      "product_name": "Bio Neem Seed Extract",
+      "category": "Pesticide",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 12]",
+      "img_url": "https://example.com/pesticides/bio_neem_extract.jpg",
+      "price": 350.00,
+      "selling_price": 315.00,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "quantity": "250 ml",
+      "description": "Natural neem extract for controlling aphids, whiteflies, and other garden pests.",
+      "benefits": [
+        "Non-toxic and eco-friendly",
+        "Repels common pests",
+        "Supports plant health",
+        "Safe for edible crops"
+      ],
+      "directions_to_use": [
+        "Dilute 2 ml per liter of water",
+        "Spray early morning or evening",
+        "Repeat weekly for persistent pests",
+        "Store in a cool, dark place"
+      ]
+    },
+ {
+      "Unnamed: 0": 26,
+      "product_name": "All-Purpose Garden Soil",
+      "category": "Soil",
+      "origin": "USA",
+      "climate_suitability": "Temperate, Tropical",
+      "zone": "[4, 11]",
+      "img_url": "https://example.com/soil/all_purpose_garden.jpg",
+      "price": 480.00,
+      "selling_price": 435.00,
+      "discount_percent": 9,
+      "rating": 4.7,
+      "quantity": "50 kg",
+      "description": "Versatile garden soil suitable for vegetables, flowers, and potted plants.",
+      "benefits": [
+        "Provides balanced nutrients",
+        "Supports root development",
+        "Retains moisture efficiently",
+        "Eco-friendly and chemical-free"
+      ],
+      "directions_to_use": [
+        "Spread evenly over garden beds",
+        "Mix lightly with native soil",
+        "Water thoroughly after application",
+        "Reapply as needed each season"
+      ]
+    },
+    {
+      "Unnamed: 0": 27,
+      "product_name": "Bacillus Thuringiensis (Bt) Pesticide",
+      "category": "Pesticide",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 12]",
+      "img_url": "https://example.com/pesticides/bt_pesticide.jpg",
+      "price": 320.00,
+      "selling_price": 290.00,
+      "discount_percent": 9,
+      "rating": 4.8,
+      "quantity": "250 ml",
+      "description": "Biological pesticide containing Bt bacteria to control caterpillars and leaf-eating pests.",
+      "benefits": [
+        "Eco-friendly and non-toxic",
+        "Targets specific pests",
+        "Safe for beneficial insects",
+        "Reduces crop damage naturally"
+      ],
+      "directions_to_use": [
+        "Dilute 2 ml per liter of water",
+        "Spray on affected leaves",
+        "Repeat every 7–10 days",
+        "Store in a cool, dark place"
+      ]
+    },
+    {
+      "Unnamed: 0": 28,
+      "product_name": "Organic Compost Mix",
+      "category": "Soil",
+      "origin": "India",
+      "climate_suitability": "Tropical, Temperate",
+      "zone": "[6, 11]",
+      "img_url": "https://example.com/soil/organic_compost_mix.jpg",
+      "price": 450.00,
+      "selling_price": 410.00,
+      "discount_percent": 9,
+      "rating": 4.7,
+      "quantity": "40 kg",
+      "description": "Rich organic compost for enriching soil fertility and improving plant growth.",
+      "benefits": [
+        "Enhances nutrient availability",
+        "Promotes healthy microbial activity",
+        "Improves soil structure",
+        "Environmentally friendly"
+      ],
+      "directions_to_use": [
+        "Mix 3–5 inches with garden soil",
+        "Apply around plants",
+        "Water thoroughly after use",
+        "Reapply each season"
+      ]
+    },
+    {
+      "Unnamed: 0": 29,
+      "product_name": "Potting Soil with Perlite",
+      "category": "Soil",
+      "origin": "Netherlands",
+      "climate_suitability": "Temperate",
+      "zone": "[5, 11]",
+      "img_url": "https://example.com/soil/potting_perlite.jpg",
+      "price": 520.00,
+      "selling_price": 470.00,
+      "discount_percent": 10,
+      "rating": 4.8,
+      "quantity": "50 kg",
+      "description": "Premium potting soil mixed with perlite for excellent aeration and drainage.",
+      "benefits": [
+        "Supports root health",
+        "Prevents waterlogging",
+        "Lightweight and easy to handle",
+        "Promotes faster plant growth"
+      ],
+      "directions_to_use": [
+        "Fill pots or planters",
+        "Mix lightly with existing soil",
+        "Water after planting",
+        "Replenish as needed"
+      ]
+    },
+    {
+      "Unnamed: 0": 30,
+      "product_name": "Spinosad Organic Pesticide",
+      "category": "Pesticide",
+      "origin": "USA",
+      "climate_suitability": "All Climates",
+      "zone": "[3, 12]",
+      "img_url": "https://example.com/pesticides/spinosad.jpg",
+      "price": 350.00,
+      "selling_price": 315.00,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "quantity": "250 ml",
+      "description": "Organic pesticide effective against caterpillars, thrips, and leaf miners.",
+      "benefits": [
+        "Eco-friendly and safe for beneficial insects",
+        "Targets specific pests",
+        "Reduces crop damage",
+        "Compatible with organic gardening"
+      ],
+      "directions_to_use": [
+        "Dilute 2 ml per liter of water",
+        "Spray on affected plants",
+        "Repeat every 7–10 days",
+        "Store in a cool, dark place"
+      ]
+    },
+    {
+      "Unnamed: 0": 31,
+      "product_name": "Garden Soil with Peat Moss",
+      "category": "Soil",
+      "origin": "Canada",
+      "climate_suitability": "Temperate, Subtropical",
+      "zone": "[4, 10]",
+      "img_url": "https://example.com/soil/garden_peat_moss.jpg",
+      "price": 500.00,
+      "selling_price": 450.00,
+      "discount_percent": 10,
+      "rating": 4.8,
+      "quantity": "50 kg",
+      "description": "Loamy garden soil enriched with peat moss for improved water retention and aeration.",
+      "benefits": [
+        "Retains moisture",
+        "Promotes root development",
+        "Lightweight and easy to handle",
+        "Supports healthy plant growth"
+      ],
+      "directions_to_use": [
+        "Mix 2–3 inches into garden beds",
+        "Combine with native soil if needed",
+        "Water thoroughly after application",
+        "Reapply each season"
+      ]
+    },
+    {
+      "Unnamed: 0": 32,
+      "product_name": "Horticultural Lime Soil Amendment",
+      "category": "Soil",
+      "origin": "USA",
+      "climate_suitability": "Temperate, Subtropical",
+      "zone": "[4, 11]",
+      "img_url": "https://example.com/soil/horticultural_lime.jpg",
+      "price": 400.00,
+      "selling_price": 360.00,
+      "discount_percent": 10,
+      "rating": 4.6,
+      "quantity": "25 kg",
+      "description": "Soil amendment to increase pH and improve soil structure for optimal plant growth.",
+      "benefits": [
+        "Balances soil pH",
+        "Enhances nutrient uptake",
+        "Improves soil structure",
+        "Safe and eco-friendly"
+      ],
+      "directions_to_use": [
+        "Apply 50 g per square meter",
+        "Mix thoroughly with soil",
+        "Water after application",
+        "Repeat as needed"
+      ]
+    },
+    {
+      "Unnamed: 0": 33,
+      "product_name": "Azoxystrobin Fungicide",
+      "category": "Pesticide",
+      "origin": "Germany",
+      "climate_suitability": "Temperate",
+      "zone": "[4, 10]",
+      "img_url": "https://example.com/pesticides/azoxystrobin.jpg",
+      "price": 400.00,
+      "selling_price": 360.00,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "quantity": "500 ml",
+      "description": "Systemic fungicide for controlling fungal infections on vegetables and fruits.",
+      "benefits": [
+        "Protects against leaf spots, rusts, and blights",
+        "Long-lasting effect",
+        "Easy to apply",
+        "Compatible with most crops"
+      ],
+      "directions_to_use": [
+        "Dilute 5 ml per liter of water",
+        "Spray on affected plants",
+        "Repeat every 10–14 days",
+        "Avoid spraying during peak sunlight"
+      ]
+    },
+    {
+      "Unnamed: 0": 34,
+      "product_name": "Cocopeat Soil Medium Grade",
+      "category": "Soil",
+      "origin": "Sri Lanka",
+      "climate_suitability": "Tropical",
+      "zone": "[8, 11]",
+      "img_url": "https://example.com/soil/cocopeat_medium.jpg",
+      "price": 420.00,
+      "selling_price": 380.00,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "quantity": "40 kg",
+      "description": "Medium-grade cocopeat for potting, seed germination, and improving soil aeration.",
+      "benefits": [
+        "Retains water efficiently",
+        "Lightweight and easy to handle",
+        "Promotes healthy root growth",
+        "pH balanced for most plants"
+      ],
+      "directions_to_use": [
+        "Mix 1:1 with potting soil",
+        "Keep consistently moist",
+        "Use for seed germination or potted plants",
+        "Rehydrate if dry"
+      ]
+    },
+    {
+      "Unnamed: 0": 35,
+      "product_name": "Rotenone Insecticide",
+      "category": "Pesticide",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 12]",
+      "img_url": "https://example.com/pesticides/rotenone.jpg",
+      "price": 330.00,
+      "selling_price": 300.00,
+      "discount_percent": 9,
+      "rating": 4.6,
+      "quantity": "250 ml",
+      "description": "Natural insecticide effective against leaf-eating insects and caterpillars.",
+      "benefits": [
+        "Eco-friendly and biodegradable",
+        "Targets specific pests",
+        "Safe for plants when used correctly",
+        "Reduces crop damage"
+      ],
+      "directions_to_use": [
+        "Dilute 2 ml per liter of water",
+        "Spray on affected leaves",
+        "Repeat every 7–10 days",
+        "Store in a cool, dry place"
+      ]
+    },
+ {
+      "Unnamed: 0": 36,
+      "product_name": "Red Clay Garden Soil",
+      "category": "Soil",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 11]",
+      "img_url": "https://example.com/soil/red_clay.jpg",
+      "price": 450.00,
+      "selling_price": 410.00,
+      "discount_percent": 9,
+      "rating": 4.7,
+      "quantity": "50 kg",
+      "description": "Nutrient-rich red clay soil ideal for flowering plants, shrubs, and garden beds.",
+      "benefits": [
+        "Enhances nutrient availability",
+        "Supports strong root development",
+        "Improves soil structure",
+        "Eco-friendly and chemical-free"
+      ],
+      "directions_to_use": [
+        "Spread 2–4 inches over garden beds",
+        "Mix lightly with existing soil",
+        "Water thoroughly after application",
+        "Reapply each season"
+      ]
+    },
+    {
+      "Unnamed: 0": 37,
+      "product_name": "Potassium Nitrate Fertilizer",
+      "category": "Soil",
+      "origin": "Germany",
+      "climate_suitability": "Temperate",
+      "zone": "[4, 10]",
+      "img_url": "https://example.com/soil/potassium_nitrate.jpg",
+      "price": 400.00,
+      "selling_price": 360.00,
+      "discount_percent": 10,
+      "rating": 4.6,
+      "quantity": "25 kg",
+      "description": "High-quality potassium nitrate fertilizer for enhanced flowering, fruiting, and plant growth.",
+      "benefits": [
+        "Boosts flowering and fruit quality",
+        "Supports plant stress resistance",
+        "Water-soluble and fast-acting",
+        "Promotes healthy root development"
+      ],
+      "directions_to_use": [
+        "Apply 20–30 g per plant",
+        "Mix thoroughly with soil",
+        "Water immediately after application",
+        "Reapply every 30 days"
+      ]
+    },
+    {
+      "Unnamed: 0": 38,
+      "product_name": "Neem Leaf Extract Pesticide",
+      "category": "Pesticide",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 12]",
+      "img_url": "https://example.com/pesticides/neem_leaf_extract.jpg",
+      "price": 320.00,
+      "selling_price": 290.00,
+      "discount_percent": 9,
+      "rating": 4.7,
+      "quantity": "250 ml",
+      "description": "Organic neem leaf extract pesticide effective against aphids, mites, and whiteflies.",
+      "benefits": [
+        "Non-toxic and eco-friendly",
+        "Repels common garden pests",
+        "Safe for edible crops",
+        "Supports sustainable gardening"
+      ],
+      "directions_to_use": [
+        "Dilute 2 ml per liter of water",
+        "Spray on affected plants early morning or evening",
+        "Repeat every 7–10 days",
+        "Store in a cool, dark place"
+      ]
+    },
+    {
+      "Unnamed: 0": 39,
+      "product_name": "Compost Enriched Loamy Soil",
+      "category": "Soil",
+      "origin": "Netherlands",
+      "climate_suitability": "Temperate",
+      "zone": "[5, 11]",
+      "img_url": "https://example.com/soil/compost_loamy.jpg",
+      "price": 500.00,
+      "selling_price": 450.00,
+      "discount_percent": 10,
+      "rating": 4.8,
+      "quantity": "50 kg",
+      "description": "Loamy soil enriched with organic compost for vegetable and flower gardens.",
+      "benefits": [
+        "Improves soil fertility",
+        "Enhances root growth",
+        "Retains moisture efficiently",
+        "Promotes healthy plant growth"
+      ],
+      "directions_to_use": [
+        "Spread 3 inches over garden beds",
+        "Mix lightly with existing soil",
+        "Water after application",
+        "Reapply as needed"
+      ]
+    },
+    {
+      "Unnamed: 0": 40,
+      "product_name": "Sulfur Dust Fungicide",
+      "category": "Pesticide",
+      "origin": "France",
+      "climate_suitability": "Temperate",
+      "zone": "[5, 10]",
+      "img_url": "https://example.com/pesticides/sulfur_dust.jpg",
+      "price": 280.00,
+      "selling_price": 250.00,
+      "discount_percent": 11,
+      "rating": 4.6,
+      "quantity": "500 g",
+      "description": "Fungicide powder effective against powdery mildew and other fungal infections in plants.",
+      "benefits": [
+        "Protects against fungal diseases",
+        "Long-lasting effect",
+        "Safe when used as directed",
+        "Easy to apply"
+      ],
+      "directions_to_use": [
+        "Dust 10–15 g per square meter",
+        "Apply evenly on affected plants",
+        "Repeat every 7–10 days if necessary",
+        "Avoid applying during windy conditions"
+      ]
+    },
+    {
+      "Unnamed: 0": 41,
+      "product_name": "Organic Mushroom Compost",
+      "category": "Soil",
+      "origin": "USA",
+      "climate_suitability": "Temperate",
+      "zone": "[4, 10]",
+      "img_url": "https://example.com/soil/mushroom_compost.jpg",
+      "price": 520.00,
+      "selling_price": 470.00,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "quantity": "50 kg",
+      "description": "Compost made from mushroom substrate for improving soil fertility and moisture retention.",
+      "benefits": [
+        "Adds organic matter to soil",
+        "Improves water retention",
+        "Supports root growth",
+        "Environmentally friendly"
+      ],
+      "directions_to_use": [
+        "Mix 2–3 inches with garden beds",
+        "Combine with native soil",
+        "Water thoroughly after application",
+        "Reapply each season"
+      ]
+    },
+    {
+      "Unnamed: 0": 42,
+      "product_name": "Organic Pyrethrin Insecticide",
+      "category": "Pesticide",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 12]",
+      "img_url": "https://example.com/pesticides/pyrethrin.jpg",
+      "price": 350.00,
+      "selling_price": 315.00,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "quantity": "250 ml",
+      "description": "Natural pyrethrin insecticide for controlling caterpillars, aphids, and other pests.",
+      "benefits": [
+        "Eco-friendly and biodegradable",
+        "Targets specific insects",
+        "Safe for most plants",
+        "Reduces crop damage"
+      ],
+      "directions_to_use": [
+        "Dilute 2 ml per liter of water",
+        "Spray on affected plants",
+        "Repeat every 7–10 days",
+        "Store in a cool, dry place"
+      ]
+    },
+    {
+      "Unnamed: 0": 43,
+      "product_name": "Loamy Soil with Sand Mix",
+      "category": "Soil",
+      "origin": "India",
+      "climate_suitability": "Tropical, Temperate",
+      "zone": "[6, 11]",
+      "img_url": "https://example.com/soil/loamy_sand_mix.jpg",
+      "price": 480.00,
+      "selling_price": 435.00,
+      "discount_percent": 9,
+      "rating": 4.7,
+      "quantity": "50 kg",
+      "description": "Well-draining loamy soil mixed with sand, ideal for potted plants and raised beds.",
+      "benefits": [
+        "Prevents waterlogging",
+        "Supports root aeration",
+        "Enhances plant growth",
+        "Eco-friendly and chemical-free"
+      ],
+      "directions_to_use": [
+        "Spread evenly in pots or beds",
+        "Mix lightly with native soil",
+        "Water thoroughly after planting",
+        "Reapply as needed"
+      ]
+    },
+    {
+      "Unnamed: 0": 44,
+      "product_name": "Bacillus subtilis Fungicide",
+      "category": "Pesticide",
+      "origin": "USA",
+      "climate_suitability": "All Climates",
+      "zone": "[3, 12]",
+      "img_url": "https://example.com/pesticides/bacillus_subtilis.jpg",
+      "price": 380.00,
+      "selling_price": 340.00,
+      "discount_percent": 10,
+      "rating": 4.8,
+      "quantity": "500 ml",
+      "description": "Bio-fungicide containing beneficial bacteria to prevent fungal infections in crops.",
+      "benefits": [
+        "Eco-friendly and natural",
+        "Controls soil-borne and foliar fungi",
+        "Safe for plants and beneficial insects",
+        "Supports sustainable gardening"
+      ],
+      "directions_to_use": [
+        "Dilute 5 ml per liter of water",
+        "Spray on leaves and soil",
+        "Repeat every 10 days",
+        "Store in a cool, dark place"
+      ]
+    },
+    {
+      "Unnamed: 0": 45,
+      "product_name": "Peat Moss Soil Conditioner",
+      "category": "Soil",
+      "origin": "Canada",
+      "climate_suitability": "Temperate, Subtropical",
+      "zone": "[4, 11]",
+      "img_url": "https://example.com/soil/peat_moss_conditioner.jpg",
+      "price": 450.00,
+      "selling_price": 410.00,
+      "discount_percent": 9,
+      "rating": 4.7,
+      "quantity": "40 kg",
+      "description": "Soil conditioner with peat moss to improve water retention and aeration in garden soil.",
+      "benefits": [
+        "Enhances moisture retention",
+        "Supports root development",
+        "Lightweight and easy to handle",
+        "Eco-friendly and chemical-free"
+      ],
+      "directions_to_use": [
+        "Mix 2–3 inches with garden beds",
+        "Combine with native soil",
+        "Water thoroughly after application",
+        "Reapply each season"
+      ]
+    },
+    {
+      "Unnamed: 0": 46,
+      "product_name": "Deltamethrin Insecticide",
+      "category": "Pesticide",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 12]",
+      "img_url": "https://example.com/pesticides/deltamethrin.jpg",
+      "price": 360.00,
+      "selling_price": 325.00,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "quantity": "250 ml",
+      "description": "Synthetic insecticide effective against a wide range of garden pests including aphids and caterpillars.",
+      "benefits": [
+        "Fast-acting pest control",
+        "Safe when used as directed",
+        "Reduces crop damage",
+        "Compatible with most plants"
+      ],
+      "directions_to_use": [
+        "Dilute 2 ml per liter of water",
+        "Spray on affected plants",
+        "Repeat every 7–10 days",
+        "Store in a cool, dry place"
+      ]
+    },
+    {
+      "Unnamed: 0": 47,
+      "product_name": "Black Earth Garden Soil",
+      "category": "Soil",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 11]",
+      "img_url": "https://example.com/soil/black_earth.jpg",
+      "price": 500.00,
+      "selling_price": 450.00,
+      "discount_percent": 10,
+      "rating": 4.8,
+      "quantity": "50 kg",
+      "description": "Rich black earth soil ideal for vegetables, fruits, and flowering plants.",
+      "benefits": [
+        "Highly fertile",
+        "Supports root and plant growth",
+        "Retains moisture efficiently",
+        "Chemical-free and natural"
+      ],
+      "directions_to_use": [
+        "Spread 3 inches over garden beds",
+        "Mix lightly with native soil",
+        "Water thoroughly after application",
+        "Reapply seasonally"
+      ]
+    },
+    {
+      "Unnamed: 0": 48,
+      "product_name": "Azadirachtin Neem Oil",
+      "category": "Pesticide",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 12]",
+      "img_url": "https://example.com/pesticides/azadirachtin_neem.jpg",
+      "price": 350.00,
+      "selling_price": 315.00,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "quantity": "250 ml",
+      "description": "Neem oil pesticide with azadirachtin for controlling leaf-eating and sap-sucking pests.",
+      "benefits": [
+        "Eco-friendly and biodegradable",
+        "Non-toxic to humans and pets",
+        "Repels common garden pests",
+        "Supports sustainable gardening"
+      ],
+      "directions_to_use": [
+        "Dilute 2 ml per liter of water",
+        "Spray on affected plants",
+        "Repeat weekly if necessary",
+        "Store in a cool, dark place"
+      ]
+    },
+    {
+      "Unnamed: 0": 49,
+      "product_name": "Horticultural Sand Soil Mix",
+      "category": "Soil",
+      "origin": "India",
+      "climate_suitability": "Tropical, Temperate",
+      "zone": "[6, 11]",
+      "img_url": "https://example.com/soil/horticultural_sand.jpg",
+      "price": 470.00,
+      "selling_price": 430.00,
+      "discount_percent": 9,
+      "rating": 4.7,
+      "quantity": "50 kg",
+      "description": "Well-draining soil mix with horticultural sand for potted plants and garden beds.",
+      "benefits": [
+        "Prevents waterlogging",
+        "Supports root aeration",
+        "Improves soil structure",
+        "Eco-friendly and chemical-free"
+      ],
+      "directions_to_use": [
+        "Spread evenly in pots or garden beds",
+        "Mix lightly with native soil",
+        "Water thoroughly after planting",
+        "Reapply as needed"
+      ]
+    },
+    {
+      "Unnamed: 0": 50,
+      "product_name": "Neem Cake Organic Soil Fertilizer",
+      "category": "Soil",
+      "origin": "India",
+      "climate_suitability": "Tropical, Subtropical",
+      "zone": "[6, 11]",
+      "img_url": "https://example.com/soil/neem_cake_fertilizer.jpg",
+      "price": 400.00,
+      "selling_price": 360.00,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "quantity": "25 kg",
+      "description": "Organic neem cake fertilizer that enriches soil and repels harmful pests naturally.",
+      "benefits": [
+        "Suppresses soil pests",
+        "Enhances soil fertility",
+        "Promotes healthy plant growth",
+        "Chemical-free and eco-friendly"
+      ],
+      "directions_to_use": [
+        "Mix 500 g per square meter into soil",
+        "Apply during planting or top dressing",
+        "Water thoroughly after application",
+        "Reapply every 2–3 months"
+      ]
+    }
+  ]
+}
