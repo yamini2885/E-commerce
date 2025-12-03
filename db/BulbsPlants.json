@@ -1,0 +1,1504 @@
+{
+  "BulbsPlants": [
+    {
+      "id": 4001,
+      "common_name": "Bulb Plant 1",
+      "scientific_name": "Bulbus plantus 1",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb1.jpg",
+      "price": 150.0,
+      "selling_price": 120.0,
+      "discount_percent": 20,
+      "rating": 3.5,
+      "description": "Bulb Plant 1 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4002,
+      "common_name": "Bulb Plant 2",
+      "scientific_name": "Bulbus plantus 2",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb2.jpg",
+      "price": 152.3,
+      "selling_price": 121.8,
+      "discount_percent": 21,
+      "rating": 3.5,
+      "description": "Bulb Plant 2 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4003,
+      "common_name": "Bulb Plant 3",
+      "scientific_name": "Bulbus plantus 3",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb3.jpg",
+      "price": 154.6,
+      "selling_price": 123.6,
+      "discount_percent": 22,
+      "rating": 3.6,
+      "description": "Bulb Plant 3 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4004,
+      "common_name": "Bulb Plant 4",
+      "scientific_name": "Bulbus plantus 4",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb4.jpg",
+      "price": 156.9,
+      "selling_price": 125.4,
+      "discount_percent": 23,
+      "rating": 3.6,
+      "description": "Bulb Plant 4 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4005,
+      "common_name": "Bulb Plant 5",
+      "scientific_name": "Bulbus plantus 5",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb5.jpg",
+      "price": 159.2,
+      "selling_price": 127.2,
+      "discount_percent": 24,
+      "rating": 3.6,
+      "description": "Bulb Plant 5 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4006,
+      "common_name": "Bulb Plant 6",
+      "scientific_name": "Bulbus plantus 6",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb6.jpg",
+      "price": 161.5,
+      "selling_price": 129.0,
+      "discount_percent": 25,
+      "rating": 3.6,
+      "description": "Bulb Plant 6 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4007,
+      "common_name": "Bulb Plant 7",
+      "scientific_name": "Bulbus plantus 7",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb7.jpg",
+      "price": 163.8,
+      "selling_price": 130.8,
+      "discount_percent": 26,
+      "rating": 3.7,
+      "description": "Bulb Plant 7 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4008,
+      "common_name": "Bulb Plant 8",
+      "scientific_name": "Bulbus plantus 8",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb8.jpg",
+      "price": 166.1,
+      "selling_price": 132.6,
+      "discount_percent": 27,
+      "rating": 3.7,
+      "description": "Bulb Plant 8 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4009,
+      "common_name": "Bulb Plant 9",
+      "scientific_name": "Bulbus plantus 9",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb9.jpg",
+      "price": 168.4,
+      "selling_price": 134.4,
+      "discount_percent": 28,
+      "rating": 3.7,
+      "description": "Bulb Plant 9 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4010,
+      "common_name": "Bulb Plant 10",
+      "scientific_name": "Bulbus plantus 10",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb10.jpg",
+      "price": 170.7,
+      "selling_price": 136.2,
+      "discount_percent": 29,
+      "rating": 3.8,
+      "description": "Bulb Plant 10 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4011,
+      "common_name": "Bulb Plant 11",
+      "scientific_name": "Bulbus plantus 11",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb11.jpg",
+      "price": 173.0,
+      "selling_price": 138.0,
+      "discount_percent": 20,
+      "rating": 3.8,
+      "description": "Bulb Plant 11 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4012,
+      "common_name": "Bulb Plant 12",
+      "scientific_name": "Bulbus plantus 12",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb12.jpg",
+      "price": 175.3,
+      "selling_price": 139.8,
+      "discount_percent": 21,
+      "rating": 3.8,
+      "description": "Bulb Plant 12 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4013,
+      "common_name": "Bulb Plant 13",
+      "scientific_name": "Bulbus plantus 13",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb13.jpg",
+      "price": 177.6,
+      "selling_price": 141.6,
+      "discount_percent": 22,
+      "rating": 3.9,
+      "description": "Bulb Plant 13 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4014,
+      "common_name": "Bulb Plant 14",
+      "scientific_name": "Bulbus plantus 14",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb14.jpg",
+      "price": 179.9,
+      "selling_price": 143.4,
+      "discount_percent": 23,
+      "rating": 3.9,
+      "description": "Bulb Plant 14 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4015,
+      "common_name": "Bulb Plant 15",
+      "scientific_name": "Bulbus plantus 15",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb15.jpg",
+      "price": 182.2,
+      "selling_price": 145.2,
+      "discount_percent": 24,
+      "rating": 3.9,
+      "description": "Bulb Plant 15 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4016,
+      "common_name": "Bulb Plant 16",
+      "scientific_name": "Bulbus plantus 16",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb16.jpg",
+      "price": 184.5,
+      "selling_price": 147.0,
+      "discount_percent": 25,
+      "rating": 3.5,
+      "description": "Bulb Plant 16 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4017,
+      "common_name": "Bulb Plant 17",
+      "scientific_name": "Bulbus plantus 17",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb17.jpg",
+      "price": 186.8,
+      "selling_price": 148.8,
+      "discount_percent": 26,
+      "rating": 3.5,
+      "description": "Bulb Plant 17 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4018,
+      "common_name": "Bulb Plant 18",
+      "scientific_name": "Bulbus plantus 18",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb18.jpg",
+      "price": 189.1,
+      "selling_price": 150.6,
+      "discount_percent": 27,
+      "rating": 3.6,
+      "description": "Bulb Plant 18 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4019,
+      "common_name": "Bulb Plant 19",
+      "scientific_name": "Bulbus plantus 19",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb19.jpg",
+      "price": 191.4,
+      "selling_price": 152.4,
+      "discount_percent": 28,
+      "rating": 3.6,
+      "description": "Bulb Plant 19 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4020,
+      "common_name": "Bulb Plant 20",
+      "scientific_name": "Bulbus plantus 20",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb20.jpg",
+      "price": 193.7,
+      "selling_price": 154.2,
+      "discount_percent": 29,
+      "rating": 3.6,
+      "description": "Bulb Plant 20 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4021,
+      "common_name": "Bulb Plant 21",
+      "scientific_name": "Bulbus plantus 21",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb21.jpg",
+      "price": 196.0,
+      "selling_price": 156.0,
+      "discount_percent": 20,
+      "rating": 3.6,
+      "description": "Bulb Plant 21 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4022,
+      "common_name": "Bulb Plant 22",
+      "scientific_name": "Bulbus plantus 22",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb22.jpg",
+      "price": 198.3,
+      "selling_price": 157.8,
+      "discount_percent": 21,
+      "rating": 3.7,
+      "description": "Bulb Plant 22 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4023,
+      "common_name": "Bulb Plant 23",
+      "scientific_name": "Bulbus plantus 23",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb23.jpg",
+      "price": 200.6,
+      "selling_price": 159.6,
+      "discount_percent": 22,
+      "rating": 3.7,
+      "description": "Bulb Plant 23 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4024,
+      "common_name": "Bulb Plant 24",
+      "scientific_name": "Bulbus plantus 24",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb24.jpg",
+      "price": 202.9,
+      "selling_price": 161.4,
+      "discount_percent": 23,
+      "rating": 3.7,
+      "description": "Bulb Plant 24 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4025,
+      "common_name": "Bulb Plant 25",
+      "scientific_name": "Bulbus plantus 25",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb25.jpg",
+      "price": 205.2,
+      "selling_price": 163.2,
+      "discount_percent": 24,
+      "rating": 3.8,
+      "description": "Bulb Plant 25 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4026,
+      "common_name": "Bulb Plant 26",
+      "scientific_name": "Bulbus plantus 26",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb26.jpg",
+      "price": 207.5,
+      "selling_price": 165.0,
+      "discount_percent": 25,
+      "rating": 3.8,
+      "description": "Bulb Plant 26 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4027,
+      "common_name": "Bulb Plant 27",
+      "scientific_name": "Bulbus plantus 27",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb27.jpg",
+      "price": 209.8,
+      "selling_price": 166.8,
+      "discount_percent": 26,
+      "rating": 3.8,
+      "description": "Bulb Plant 27 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4028,
+      "common_name": "Bulb Plant 28",
+      "scientific_name": "Bulbus plantus 28",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb28.jpg",
+      "price": 212.1,
+      "selling_price": 168.6,
+      "discount_percent": 27,
+      "rating": 3.9,
+      "description": "Bulb Plant 28 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4029,
+      "common_name": "Bulb Plant 29",
+      "scientific_name": "Bulbus plantus 29",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb29.jpg",
+      "price": 214.4,
+      "selling_price": 170.4,
+      "discount_percent": 28,
+      "rating": 3.9,
+      "description": "Bulb Plant 29 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4030,
+      "common_name": "Bulb Plant 30",
+      "scientific_name": "Bulbus plantus 30",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb30.jpg",
+      "price": 216.7,
+      "selling_price": 172.2,
+      "discount_percent": 29,
+      "rating": 3.9,
+      "description": "Bulb Plant 30 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4031,
+      "common_name": "Bulb Plant 31",
+      "scientific_name": "Bulbus plantus 31",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb31.jpg",
+      "price": 219.0,
+      "selling_price": 174.0,
+      "discount_percent": 20,
+      "rating": 3.5,
+      "description": "Bulb Plant 31 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4032,
+      "common_name": "Bulb Plant 32",
+      "scientific_name": "Bulbus plantus 32",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb32.jpg",
+      "price": 221.3,
+      "selling_price": 175.8,
+      "discount_percent": 21,
+      "rating": 3.5,
+      "description": "Bulb Plant 32 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4033,
+      "common_name": "Bulb Plant 33",
+      "scientific_name": "Bulbus plantus 33",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb33.jpg",
+      "price": 223.6,
+      "selling_price": 177.6,
+      "discount_percent": 22,
+      "rating": 3.6,
+      "description": "Bulb Plant 33 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4034,
+      "common_name": "Bulb Plant 34",
+      "scientific_name": "Bulbus plantus 34",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb34.jpg",
+      "price": 225.9,
+      "selling_price": 179.4,
+      "discount_percent": 23,
+      "rating": 3.6,
+      "description": "Bulb Plant 34 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4035,
+      "common_name": "Bulb Plant 35",
+      "scientific_name": "Bulbus plantus 35",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb35.jpg",
+      "price": 228.2,
+      "selling_price": 181.2,
+      "discount_percent": 24,
+      "rating": 3.6,
+      "description": "Bulb Plant 35 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4036,
+      "common_name": "Bulb Plant 36",
+      "scientific_name": "Bulbus plantus 36",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb36.jpg",
+      "price": 230.5,
+      "selling_price": 183.0,
+      "discount_percent": 25,
+      "rating": 3.6,
+      "description": "Bulb Plant 36 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4037,
+      "common_name": "Bulb Plant 37",
+      "scientific_name": "Bulbus plantus 37",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb37.jpg",
+      "price": 232.8,
+      "selling_price": 184.8,
+      "discount_percent": 26,
+      "rating": 3.7,
+      "description": "Bulb Plant 37 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4038,
+      "common_name": "Bulb Plant 38",
+      "scientific_name": "Bulbus plantus 38",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb38.jpg",
+      "price": 235.1,
+      "selling_price": 186.6,
+      "discount_percent": 27,
+      "rating": 3.7,
+      "description": "Bulb Plant 38 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4039,
+      "common_name": "Bulb Plant 39",
+      "scientific_name": "Bulbus plantus 39",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb39.jpg",
+      "price": 237.4,
+      "selling_price": 188.4,
+      "discount_percent": 28,
+      "rating": 3.7,
+      "description": "Bulb Plant 39 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4040,
+      "common_name": "Bulb Plant 40",
+      "scientific_name": "Bulbus plantus 40",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb40.jpg",
+      "price": 239.7,
+      "selling_price": 190.2,
+      "discount_percent": 29,
+      "rating": 3.8,
+      "description": "Bulb Plant 40 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4041,
+      "common_name": "Bulb Plant 41",
+      "scientific_name": "Bulbus plantus 41",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb41.jpg",
+      "price": 242.0,
+      "selling_price": 192.0,
+      "discount_percent": 20,
+      "rating": 3.8,
+      "description": "Bulb Plant 41 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4042,
+      "common_name": "Bulb Plant 42",
+      "scientific_name": "Bulbus plantus 42",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb42.jpg",
+      "price": 244.3,
+      "selling_price": 193.8,
+      "discount_percent": 21,
+      "rating": 3.8,
+      "description": "Bulb Plant 42 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4043,
+      "common_name": "Bulb Plant 43",
+      "scientific_name": "Bulbus plantus 43",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb43.jpg",
+      "price": 246.6,
+      "selling_price": 195.6,
+      "discount_percent": 22,
+      "rating": 3.9,
+      "description": "Bulb Plant 43 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4044,
+      "common_name": "Bulb Plant 44",
+      "scientific_name": "Bulbus plantus 44",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb44.jpg",
+      "price": 248.9,
+      "selling_price": 197.4,
+      "discount_percent": 23,
+      "rating": 3.9,
+      "description": "Bulb Plant 44 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4045,
+      "common_name": "Bulb Plant 45",
+      "scientific_name": "Bulbus plantus 45",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb45.jpg",
+      "price": 251.2,
+      "selling_price": 199.2,
+      "discount_percent": 24,
+      "rating": 3.9,
+      "description": "Bulb Plant 45 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4046,
+      "common_name": "Bulb Plant 46",
+      "scientific_name": "Bulbus plantus 46",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb46.jpg",
+      "price": 253.5,
+      "selling_price": 201.0,
+      "discount_percent": 25,
+      "rating": 3.5,
+      "description": "Bulb Plant 46 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4047,
+      "common_name": "Bulb Plant 47",
+      "scientific_name": "Bulbus plantus 47",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb47.jpg",
+      "price": 255.8,
+      "selling_price": 202.8,
+      "discount_percent": 26,
+      "rating": 3.5,
+      "description": "Bulb Plant 47 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4048,
+      "common_name": "Bulb Plant 48",
+      "scientific_name": "Bulbus plantus 48",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb48.jpg",
+      "price": 258.1,
+      "selling_price": 204.6,
+      "discount_percent": 27,
+      "rating": 3.6,
+      "description": "Bulb Plant 48 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4049,
+      "common_name": "Bulb Plant 49",
+      "scientific_name": "Bulbus plantus 49",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb49.jpg",
+      "price": 260.4,
+      "selling_price": 206.4,
+      "discount_percent": 28,
+      "rating": 3.6,
+      "description": "Bulb Plant 49 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    },
+    {
+      "id": 4050,
+      "common_name": "Bulb Plant 50",
+      "scientific_name": "Bulbus plantus 50",
+      "family": "Liliaceae",
+      "categories": "Flowering Bulb",
+      "origin": "Global",
+      "climate": "Temperate",
+      "zone": [
+        3,
+        9
+      ],
+      "img_url": "https://example.com/bulb50.jpg",
+      "price": 262.7,
+      "selling_price": 208.2,
+      "discount_percent": 29,
+      "rating": 3.6,
+      "description": "Bulb Plant 50 is a seasonal bulb known for colorful blooms.",
+      "benefits": [
+        "Beautiful ornamental plant",
+        "Low maintenance",
+        "Perfect for gardens and pots"
+      ],
+      "steps_to_grow": [
+        "Plant in well-draining soil",
+        "Provide full or partial sunlight",
+        "Water moderately",
+        "Allow bulbs to rest after blooming"
+      ]
+    }
+  ]
+}

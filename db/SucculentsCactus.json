@@ -1,0 +1,3004 @@
+{
+  "SucculentsCactus": [
+    {
+      "id": 3001,
+      "common_name": "Aloe Vera",
+      "family": "Asphodelaceae",
+      "categories": "Succulent",
+      "origin": "India",
+      "climate": "Dry & Sunny",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Aloe+Vera",
+      "price": 424,
+      "selling_price": 276,
+      "discount_percent": 34,
+      "rating": 4.4,
+      "description": "Aloe Vera is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3002,
+      "common_name": "Zebra Haworthia",
+      "family": "Asphodelaceae",
+      "categories": "Succulent",
+      "origin": "Namibia",
+      "climate": "Subtropical",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Zebra+Haworthia",
+      "price": 514,
+      "selling_price": 458,
+      "discount_percent": 10,
+      "rating": 4.4,
+      "description": "Zebra Haworthia is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3003,
+      "common_name": "Jade Plant",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Australia",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        8,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Jade+Plant",
+      "price": 597,
+      "selling_price": 454,
+      "discount_percent": 23,
+      "rating": 4.2,
+      "description": "Jade Plant is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3004,
+      "common_name": "String of Pearls",
+      "family": "Asteraceae",
+      "categories": "Succulent",
+      "origin": "Peru",
+      "climate": "Temperate",
+      "zone": [
+        9,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=String+of+Pearls",
+      "price": 495,
+      "selling_price": 379,
+      "discount_percent": 23,
+      "rating": 4.3,
+      "description": "String of Pearls is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3005,
+      "common_name": "Pincushion Cactus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Ethiopia",
+      "climate": "Desert",
+      "zone": [
+        7,
+        8
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Pincushion+Cactus",
+      "price": 880,
+      "selling_price": 735,
+      "discount_percent": 16,
+      "rating": 4.1,
+      "description": "Pincushion Cactus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3006,
+      "common_name": "Snake Plant",
+      "family": "Asparagaceae",
+      "categories": "Succulent",
+      "origin": "Namibia",
+      "climate": "Dry & Sunny",
+      "zone": [
+        9,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Snake+Plant",
+      "price": 333,
+      "selling_price": 208,
+      "discount_percent": 37,
+      "rating": 4.1,
+      "description": "Snake Plant is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3007,
+      "common_name": "Echeveria Blue Rose",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Canary Islands",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        8,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Echeveria+Blue+Rose",
+      "price": 366,
+      "selling_price": 284,
+      "discount_percent": 22,
+      "rating": 4.7,
+      "description": "Echeveria Blue Rose is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3008,
+      "common_name": "Barrel Cactus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Argentina",
+      "climate": "Dry & Sunny",
+      "zone": [
+        8,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Barrel+Cactus",
+      "price": 786,
+      "selling_price": 466,
+      "discount_percent": 40,
+      "rating": 4.1,
+      "description": "Barrel Cactus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3009,
+      "common_name": "Christmas Cactus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "India",
+      "climate": "Dry & Sunny",
+      "zone": [
+        9,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Christmas+Cactus",
+      "price": 366,
+      "selling_price": 204,
+      "discount_percent": 44,
+      "rating": 4.6,
+      "description": "Christmas Cactus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3010,
+      "common_name": "Golden Barrel Cactus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Brazil",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        8,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Golden+Barrel+Cactus",
+      "price": 560,
+      "selling_price": 373,
+      "discount_percent": 33,
+      "rating": 4.5,
+      "description": "Golden Barrel Cactus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3011,
+      "common_name": "Hens and Chicks",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Canary Islands",
+      "climate": "Desert",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Hens+and+Chicks",
+      "price": 254,
+      "selling_price": 193,
+      "discount_percent": 24,
+      "rating": 4.9,
+      "description": "Hens and Chicks is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3012,
+      "common_name": "Burro's Tail",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "South Africa",
+      "climate": "Warm & Dry",
+      "zone": [
+        9,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Burro's+Tail",
+      "price": 341,
+      "selling_price": 216,
+      "discount_percent": 36,
+      "rating": 4.1,
+      "description": "Burro's Tail is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3013,
+      "common_name": "Lithops (Living Stones)",
+      "family": "Aizoaceae",
+      "categories": "Succulent",
+      "origin": "Morocco",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        8,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Lithops+(Living+Stones)",
+      "price": 787,
+      "selling_price": 539,
+      "discount_percent": 31,
+      "rating": 4.7,
+      "description": "Lithops (Living Stones) is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3014,
+      "common_name": "Agave Attenuata",
+      "family": "Asparagaceae",
+      "categories": "Succulent",
+      "origin": "South Africa",
+      "climate": "Temperate",
+      "zone": [
+        10,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Agave+Attenuata",
+      "price": 268,
+      "selling_price": 220,
+      "discount_percent": 17,
+      "rating": 4.0,
+      "description": "Agave Attenuata is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3015,
+      "common_name": "Sempervivum (Houseleek)",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Peru",
+      "climate": "Dry & Sunny",
+      "zone": [
+        9,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Sempervivum+(Houseleek)",
+      "price": 866,
+      "selling_price": 633,
+      "discount_percent": 26,
+      "rating": 4.7,
+      "description": "Sempervivum (Houseleek) is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3016,
+      "common_name": "Graptopetalum Paraguayense",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "India",
+      "climate": "Warm & Dry",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Graptopetalum+Paraguayense",
+      "price": 749,
+      "selling_price": 615,
+      "discount_percent": 17,
+      "rating": 4.2,
+      "description": "Graptopetalum Paraguayense is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3017,
+      "common_name": "Crassula 'Hobbit'",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "USA",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        10,
+        13
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Crassula+'Hobbit'",
+      "price": 872,
+      "selling_price": 733,
+      "discount_percent": 15,
+      "rating": 4.1,
+      "description": "Crassula 'Hobbit' is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3018,
+      "common_name": "Kalanchoe Thyrsiflora",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Ethiopia",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        9,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Kalanchoe+Thyrsiflora",
+      "price": 437,
+      "selling_price": 356,
+      "discount_percent": 18,
+      "rating": 4.2,
+      "description": "Kalanchoe Thyrsiflora is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3019,
+      "common_name": "Opuntia (Prickly Pear)",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Ethiopia",
+      "climate": "Subtropical",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Opuntia+(Prickly+Pear)",
+      "price": 737,
+      "selling_price": 661,
+      "discount_percent": 10,
+      "rating": 4.6,
+      "description": "Opuntia (Prickly Pear) is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3020,
+      "common_name": "Mammillaria Elongata",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Canary Islands",
+      "climate": "Dry & Sunny",
+      "zone": [
+        7,
+        8
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Mammillaria+Elongata",
+      "price": 184,
+      "selling_price": 105,
+      "discount_percent": 42,
+      "rating": 4.2,
+      "description": "Mammillaria Elongata is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3021,
+      "common_name": "Euphorbia Trigona",
+      "family": "Euphorbiaceae",
+      "categories": "Succulent",
+      "origin": "USA",
+      "climate": "Dry & Sunny",
+      "zone": [
+        9,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Euphorbia+Trigona",
+      "price": 733,
+      "selling_price": 633,
+      "discount_percent": 13,
+      "rating": 4.5,
+      "description": "Euphorbia Trigona is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3022,
+      "common_name": "Ariocarpus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Namibia",
+      "climate": "Temperate",
+      "zone": [
+        10,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Ariocarpus",
+      "price": 764,
+      "selling_price": 610,
+      "discount_percent": 20,
+      "rating": 4.4,
+      "description": "Ariocarpus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3023,
+      "common_name": "Astrophytum Myriostigma",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Mexico",
+      "climate": "Warm & Dry",
+      "zone": [
+        8,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Astrophytum+Myriostigma",
+      "price": 695,
+      "selling_price": 554,
+      "discount_percent": 20,
+      "rating": 4.2,
+      "description": "Astrophytum Myriostigma is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3024,
+      "common_name": "Ferocactus Latispinus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Madagascar",
+      "climate": "Subtropical",
+      "zone": [
+        8,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Ferocactus+Latispinus",
+      "price": 402,
+      "selling_price": 325,
+      "discount_percent": 19,
+      "rating": 4.5,
+      "description": "Ferocactus Latispinus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3025,
+      "common_name": "Cereus Peruvianus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Australia",
+      "climate": "Warm & Dry",
+      "zone": [
+        9,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Cereus+Peruvianus",
+      "price": 699,
+      "selling_price": 568,
+      "discount_percent": 18,
+      "rating": 4.2,
+      "description": "Cereus Peruvianus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3026,
+      "common_name": "Echinopsis Pachanoi",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "India",
+      "climate": "Subtropical",
+      "zone": [
+        10,
+        13
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Echinopsis+Pachanoi",
+      "price": 790,
+      "selling_price": 488,
+      "discount_percent": 38,
+      "rating": 4.1,
+      "description": "Echinopsis Pachanoi is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3027,
+      "common_name": "Rebutia",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "India",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        10,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Rebutia",
+      "price": 446,
+      "selling_price": 299,
+      "discount_percent": 32,
+      "rating": 4.2,
+      "description": "Rebutia is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3028,
+      "common_name": "Notocactus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Madagascar",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        10,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Notocactus",
+      "price": 771,
+      "selling_price": 445,
+      "discount_percent": 42,
+      "rating": 4.3,
+      "description": "Notocactus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3029,
+      "common_name": "Euphorbia Obesa",
+      "family": "Euphorbiaceae",
+      "categories": "Succulent",
+      "origin": "Morocco",
+      "climate": "Subtropical",
+      "zone": [
+        7,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Euphorbia+Obesa",
+      "price": 848,
+      "selling_price": 662,
+      "discount_percent": 21,
+      "rating": 4.5,
+      "description": "Euphorbia Obesa is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3030,
+      "common_name": "Portulacaria Afra",
+      "family": "Didiereaceae",
+      "categories": "Succulent",
+      "origin": "Peru",
+      "climate": "Warm & Dry",
+      "zone": [
+        8,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Portulacaria+Afra",
+      "price": 242,
+      "selling_price": 175,
+      "discount_percent": 27,
+      "rating": 4.9,
+      "description": "Portulacaria Afra is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3031,
+      "common_name": "Gasteria",
+      "family": "Asphodelaceae",
+      "categories": "Succulent",
+      "origin": "Mexico",
+      "climate": "Warm & Dry",
+      "zone": [
+        10,
+        13
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Gasteria",
+      "price": 800,
+      "selling_price": 637,
+      "discount_percent": 20,
+      "rating": 4.5,
+      "description": "Gasteria is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3032,
+      "common_name": "Pachyphytum Oviferum",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Ethiopia",
+      "climate": "Temperate",
+      "zone": [
+        8,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Pachyphytum+Oviferum",
+      "price": 123,
+      "selling_price": 82,
+      "discount_percent": 33,
+      "rating": 4.1,
+      "description": "Pachyphytum Oviferum is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3033,
+      "common_name": "Pachyveria",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Canary Islands",
+      "climate": "Dry & Sunny",
+      "zone": [
+        10,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Pachyveria",
+      "price": 257,
+      "selling_price": 218,
+      "discount_percent": 15,
+      "rating": 4.5,
+      "description": "Pachyveria is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3034,
+      "common_name": "Senecio Vitalis",
+      "family": "Asteraceae",
+      "categories": "Succulent",
+      "origin": "Morocco",
+      "climate": "Dry & Sunny",
+      "zone": [
+        9,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Senecio+Vitalis",
+      "price": 138,
+      "selling_price": 121,
+      "discount_percent": 12,
+      "rating": 4.1,
+      "description": "Senecio Vitalis is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3035,
+      "common_name": "Agave Parryi",
+      "family": "Asparagaceae",
+      "categories": "Succulent",
+      "origin": "Brazil",
+      "climate": "Warm & Dry",
+      "zone": [
+        10,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Agave+Parryi",
+      "price": 762,
+      "selling_price": 500,
+      "discount_percent": 34,
+      "rating": 4.3,
+      "description": "Agave Parryi is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3036,
+      "common_name": "Agave Victoriae-Reginae",
+      "family": "Asparagaceae",
+      "categories": "Succulent",
+      "origin": "Morocco",
+      "climate": "Temperate",
+      "zone": [
+        7,
+        8
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Agave+Victoriae-Reginae",
+      "price": 139,
+      "selling_price": 100,
+      "discount_percent": 28,
+      "rating": 4.1,
+      "description": "Agave Victoriae-Reginae is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3037,
+      "common_name": "Ariocarpus Fissuratus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "USA",
+      "climate": "Subtropical",
+      "zone": [
+        8,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Ariocarpus+Fissuratus",
+      "price": 842,
+      "selling_price": 669,
+      "discount_percent": 20,
+      "rating": 4.8,
+      "description": "Ariocarpus Fissuratus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3038,
+      "common_name": "Euphorbia Neriifolia",
+      "family": "Euphorbiaceae",
+      "categories": "Succulent",
+      "origin": "Brazil",
+      "climate": "Temperate",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Euphorbia+Neriifolia",
+      "price": 502,
+      "selling_price": 292,
+      "discount_percent": 41,
+      "rating": 4.4,
+      "description": "Euphorbia Neriifolia is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3039,
+      "common_name": "Stapelia (Carrion Flower)",
+      "family": "Apocynaceae",
+      "categories": "Succulent",
+      "origin": "Morocco",
+      "climate": "Subtropical",
+      "zone": [
+        10,
+        13
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Stapelia+(Carrion+Flower)",
+      "price": 284,
+      "selling_price": 196,
+      "discount_percent": 30,
+      "rating": 4.6,
+      "description": "Stapelia (Carrion Flower) is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3040,
+      "common_name": "Stenocactus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Argentina",
+      "climate": "Dry & Sunny",
+      "zone": [
+        9,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Stenocactus",
+      "price": 683,
+      "selling_price": 564,
+      "discount_percent": 17,
+      "rating": 4.1,
+      "description": "Stenocactus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3041,
+      "common_name": "Faucaria Tigrina",
+      "family": "Aizoaceae",
+      "categories": "Succulent",
+      "origin": "South Africa",
+      "climate": "Temperate",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Faucaria+Tigrina",
+      "price": 148,
+      "selling_price": 113,
+      "discount_percent": 23,
+      "rating": 4.0,
+      "description": "Faucaria Tigrina is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3042,
+      "common_name": "Crassula Muscosa",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Chile",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        8,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Crassula+Muscosa",
+      "price": 218,
+      "selling_price": 148,
+      "discount_percent": 32,
+      "rating": 4.2,
+      "description": "Crassula Muscosa is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3043,
+      "common_name": "Aichryson",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Madagascar",
+      "climate": "Dry & Sunny",
+      "zone": [
+        9,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Aichryson",
+      "price": 326,
+      "selling_price": 273,
+      "discount_percent": 16,
+      "rating": 4.7,
+      "description": "Aichryson is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3044,
+      "common_name": "Aeonium Arboreum",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Morocco",
+      "climate": "Desert",
+      "zone": [
+        9,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Aeonium+Arboreum",
+      "price": 859,
+      "selling_price": 512,
+      "discount_percent": 40,
+      "rating": 4.1,
+      "description": "Aeonium Arboreum is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3045,
+      "common_name": "Adromischus Cristatus",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Ethiopia",
+      "climate": "Temperate",
+      "zone": [
+        8,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Adromischus+Cristatus",
+      "price": 431,
+      "selling_price": 259,
+      "discount_percent": 39,
+      "rating": 4.3,
+      "description": "Adromischus Cristatus is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3046,
+      "common_name": "Pachycereus Pringlei",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Ethiopia",
+      "climate": "Desert",
+      "zone": [
+        7,
+        8
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Pachycereus+Pringlei",
+      "price": 132,
+      "selling_price": 117,
+      "discount_percent": 11,
+      "rating": 4.9,
+      "description": "Pachycereus Pringlei is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3047,
+      "common_name": "Cylindropuntia",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Canary Islands",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        9,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Cylindropuntia",
+      "price": 661,
+      "selling_price": 584,
+      "discount_percent": 11,
+      "rating": 4.3,
+      "description": "Cylindropuntia is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3048,
+      "common_name": "Copiapoa",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Mexico",
+      "climate": "Warm & Dry",
+      "zone": [
+        8,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Copiapoa",
+      "price": 533,
+      "selling_price": 378,
+      "discount_percent": 29,
+      "rating": 4.8,
+      "description": "Copiapoa is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3049,
+      "common_name": "Discocactus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Argentina",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        8,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Discocactus",
+      "price": 640,
+      "selling_price": 384,
+      "discount_percent": 40,
+      "rating": 4.7,
+      "description": "Discocactus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3050,
+      "common_name": "Euphorbia Lactea",
+      "family": "Euphorbiaceae",
+      "categories": "Succulent",
+      "origin": "Australia",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Euphorbia+Lactea",
+      "price": 890,
+      "selling_price": 800,
+      "discount_percent": 10,
+      "rating": 4.2,
+      "description": "Euphorbia Lactea is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3051,
+      "common_name": "Haworthia Attenuata",
+      "family": "Asphodelaceae",
+      "categories": "Succulent",
+      "origin": "Namibia",
+      "climate": "Subtropical",
+      "zone": [
+        9,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Haworthia+Attenuata",
+      "price": 409,
+      "selling_price": 247,
+      "discount_percent": 39,
+      "rating": 4.9,
+      "description": "Haworthia Attenuata is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3052,
+      "common_name": "Aloinopsis",
+      "family": "Aizoaceae",
+      "categories": "Succulent",
+      "origin": "South Africa",
+      "climate": "Subtropical",
+      "zone": [
+        8,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Aloinopsis",
+      "price": 597,
+      "selling_price": 445,
+      "discount_percent": 25,
+      "rating": 4.9,
+      "description": "Aloinopsis is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3053,
+      "common_name": "Echeveria Elegans",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Australia",
+      "climate": "Temperate",
+      "zone": [
+        7,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Echeveria+Elegans",
+      "price": 308,
+      "selling_price": 175,
+      "discount_percent": 43,
+      "rating": 4.8,
+      "description": "Echeveria Elegans is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3054,
+      "common_name": "Kalanchoe Tomentosa",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "India",
+      "climate": "Subtropical",
+      "zone": [
+        8,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Kalanchoe+Tomentosa",
+      "price": 468,
+      "selling_price": 265,
+      "discount_percent": 43,
+      "rating": 4.5,
+      "description": "Kalanchoe Tomentosa is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3055,
+      "common_name": "String of Rubies",
+      "family": "Asteraceae",
+      "categories": "Succulent",
+      "origin": "South Africa",
+      "climate": "Warm & Dry",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=String+of+Rubies",
+      "price": 236,
+      "selling_price": 167,
+      "discount_percent": 29,
+      "rating": 4.3,
+      "description": "String of Rubies is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3056,
+      "common_name": "Sedum Rupestre",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Brazil",
+      "climate": "Warm & Dry",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Sedum+Rupestre",
+      "price": 427,
+      "selling_price": 266,
+      "discount_percent": 37,
+      "rating": 4.8,
+      "description": "Sedum Rupestre is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3057,
+      "common_name": "Crassula Perforata",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Peru",
+      "climate": "Warm & Dry",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Crassula+Perforata",
+      "price": 208,
+      "selling_price": 165,
+      "discount_percent": 20,
+      "rating": 4.8,
+      "description": "Crassula Perforata is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3058,
+      "common_name": "Cotyledon Orbiculata",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Argentina",
+      "climate": "Desert",
+      "zone": [
+        7,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Cotyledon+Orbiculata",
+      "price": 318,
+      "selling_price": 260,
+      "discount_percent": 18,
+      "rating": 4.4,
+      "description": "Cotyledon Orbiculata is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3059,
+      "common_name": "Aloinopsis Rosulata",
+      "family": "Aizoaceae",
+      "categories": "Succulent",
+      "origin": "Canary Islands",
+      "climate": "Dry & Sunny",
+      "zone": [
+        8,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Aloinopsis+Rosulata",
+      "price": 465,
+      "selling_price": 383,
+      "discount_percent": 17,
+      "rating": 4.5,
+      "description": "Aloinopsis Rosulata is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3060,
+      "common_name": "Euphorbia Polygona",
+      "family": "Euphorbiaceae",
+      "categories": "Succulent",
+      "origin": "Argentina",
+      "climate": "Dry & Sunny",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Euphorbia+Polygona",
+      "price": 537,
+      "selling_price": 319,
+      "discount_percent": 40,
+      "rating": 4.1,
+      "description": "Euphorbia Polygona is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3061,
+      "common_name": "Euphorbia Pseudocactus",
+      "family": "Euphorbiaceae",
+      "categories": "Cactus",
+      "origin": "USA",
+      "climate": "Dry & Sunny",
+      "zone": [
+        7,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Euphorbia+Pseudocactus",
+      "price": 141,
+      "selling_price": 89,
+      "discount_percent": 36,
+      "rating": 4.8,
+      "description": "Euphorbia Pseudocactus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3062,
+      "common_name": "Ferocactus Wislizeni",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Namibia",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        8,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Ferocactus+Wislizeni",
+      "price": 486,
+      "selling_price": 286,
+      "discount_percent": 41,
+      "rating": 4.2,
+      "description": "Ferocactus Wislizeni is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3063,
+      "common_name": "Gymnocalycium",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Morocco",
+      "climate": "Dry & Sunny",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Gymnocalycium",
+      "price": 862,
+      "selling_price": 705,
+      "discount_percent": 18,
+      "rating": 4.2,
+      "description": "Gymnocalycium is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3064,
+      "common_name": "Hoya Kerrii",
+      "family": "Apocynaceae",
+      "categories": "Succulent",
+      "origin": "USA",
+      "climate": "Warm & Dry",
+      "zone": [
+        8,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Hoya+Kerrii",
+      "price": 711,
+      "selling_price": 616,
+      "discount_percent": 13,
+      "rating": 4.5,
+      "description": "Hoya Kerrii is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3065,
+      "common_name": "Stapelia Grandiflora",
+      "family": "Asparagaceae",
+      "categories": "Succulent",
+      "origin": "Morocco",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        9,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Stapelia+Grandiflora",
+      "price": 439,
+      "selling_price": 332,
+      "discount_percent": 24,
+      "rating": 4.7,
+      "description": "Stapelia Grandiflora is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3066,
+      "common_name": "Trichocereus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Chile",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        8,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Trichocereus",
+      "price": 320,
+      "selling_price": 278,
+      "discount_percent": 13,
+      "rating": 4.8,
+      "description": "Trichocereus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3067,
+      "common_name": "Cleistocactus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Chile",
+      "climate": "Temperate",
+      "zone": [
+        7,
+        8
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Cleistocactus",
+      "price": 755,
+      "selling_price": 633,
+      "discount_percent": 16,
+      "rating": 4.3,
+      "description": "Cleistocactus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3068,
+      "common_name": "Discocactus Magnificus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Madagascar",
+      "climate": "Temperate",
+      "zone": [
+        9,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Discocactus+Magnificus",
+      "price": 866,
+      "selling_price": 611,
+      "discount_percent": 29,
+      "rating": 4.1,
+      "description": "Discocactus Magnificus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3069,
+      "common_name": "Mammillaria Cristata",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "USA",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        9,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Mammillaria+Cristata",
+      "price": 297,
+      "selling_price": 222,
+      "discount_percent": 25,
+      "rating": 4.6,
+      "description": "Mammillaria Cristata is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3070,
+      "common_name": "Opuntia Microdasys",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Mexico",
+      "climate": "Warm & Dry",
+      "zone": [
+        9,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Opuntia+Microdasys",
+      "price": 658,
+      "selling_price": 506,
+      "discount_percent": 23,
+      "rating": 4.1,
+      "description": "Opuntia Microdasys is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3071,
+      "common_name": "Echinocereus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "India",
+      "climate": "Temperate",
+      "zone": [
+        10,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Echinocereus",
+      "price": 876,
+      "selling_price": 637,
+      "discount_percent": 27,
+      "rating": 4.5,
+      "description": "Echinocereus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3072,
+      "common_name": "Leuchtenbergia Principis",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Ethiopia",
+      "climate": "Subtropical",
+      "zone": [
+        8,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Leuchtenbergia+Principis",
+      "price": 653,
+      "selling_price": 465,
+      "discount_percent": 28,
+      "rating": 4.6,
+      "description": "Leuchtenbergia Principis is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3073,
+      "common_name": "Mammillaria Hahsii",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Brazil",
+      "climate": "Temperate",
+      "zone": [
+        9,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Mammillaria+Hahsii",
+      "price": 245,
+      "selling_price": 140,
+      "discount_percent": 42,
+      "rating": 4.6,
+      "description": "Mammillaria Hahsii is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3074,
+      "common_name": "Neolloydia",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Canary Islands",
+      "climate": "Warm & Dry",
+      "zone": [
+        10,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Neolloydia",
+      "price": 658,
+      "selling_price": 466,
+      "discount_percent": 29,
+      "rating": 4.9,
+      "description": "Neolloydia is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3075,
+      "common_name": "Oreocereus",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Madagascar",
+      "climate": "Subtropical",
+      "zone": [
+        9,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Oreocereus",
+      "price": 744,
+      "selling_price": 661,
+      "discount_percent": 11,
+      "rating": 4.5,
+      "description": "Oreocereus is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3076,
+      "common_name": "Parodia",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Canary Islands",
+      "climate": "Desert",
+      "zone": [
+        7,
+        8
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Parodia",
+      "price": 865,
+      "selling_price": 533,
+      "discount_percent": 38,
+      "rating": 4.8,
+      "description": "Parodia is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3077,
+      "common_name": "Pachyveria Glauca",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Argentina",
+      "climate": "Subtropical",
+      "zone": [
+        9,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Pachyveria+Glauca",
+      "price": 683,
+      "selling_price": 468,
+      "discount_percent": 31,
+      "rating": 4.3,
+      "description": "Pachyveria Glauca is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3078,
+      "common_name": "Pachyphytum Compactum",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Madagascar",
+      "climate": "Dry & Sunny",
+      "zone": [
+        9,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Pachyphytum+Compactum",
+      "price": 332,
+      "selling_price": 248,
+      "discount_percent": 25,
+      "rating": 4.2,
+      "description": "Pachyphytum Compactum is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3079,
+      "common_name": "Sedum Album",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "USA",
+      "climate": "Dry & Sunny",
+      "zone": [
+        7,
+        8
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Sedum+Album",
+      "price": 594,
+      "selling_price": 433,
+      "discount_percent": 27,
+      "rating": 4.4,
+      "description": "Sedum Album is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3080,
+      "common_name": "Sedum Telephium",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Mexico",
+      "climate": "Warm & Dry",
+      "zone": [
+        7,
+        8
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Sedum+Telephium",
+      "price": 148,
+      "selling_price": 98,
+      "discount_percent": 33,
+      "rating": 4.6,
+      "description": "Sedum Telephium is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3081,
+      "common_name": "Sempervivum 'Red'",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Namibia",
+      "climate": "Subtropical",
+      "zone": [
+        9,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Sempervivum+'Red'",
+      "price": 720,
+      "selling_price": 603,
+      "discount_percent": 16,
+      "rating": 4.4,
+      "description": "Sempervivum 'Red' is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3082,
+      "common_name": "Euphorbia Polygona Variegata",
+      "family": "Euphorbiaceae",
+      "categories": "Succulent",
+      "origin": "Mexico",
+      "climate": "Warm & Dry",
+      "zone": [
+        8,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Euphorbia+Polygona+Variegata",
+      "price": 177,
+      "selling_price": 105,
+      "discount_percent": 40,
+      "rating": 4.8,
+      "description": "Euphorbia Polygona Variegata is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3083,
+      "common_name": "Kalanchoe Blossfeldiana",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Chile",
+      "climate": "Warm & Dry",
+      "zone": [
+        9,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Kalanchoe+Blossfeldiana",
+      "price": 469,
+      "selling_price": 407,
+      "discount_percent": 13,
+      "rating": 4.3,
+      "description": "Kalanchoe Blossfeldiana is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3084,
+      "common_name": "Aloe Aristata",
+      "family": "Asphodelaceae",
+      "categories": "Succulent",
+      "origin": "Ethiopia",
+      "climate": "Temperate",
+      "zone": [
+        8,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Aloe+Aristata",
+      "price": 159,
+      "selling_price": 88,
+      "discount_percent": 44,
+      "rating": 4.9,
+      "description": "Aloe Aristata is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3085,
+      "common_name": "Echinocactus Grusonii",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Australia",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        10,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Echinocactus+Grusonii",
+      "price": 393,
+      "selling_price": 294,
+      "discount_percent": 25,
+      "rating": 4.3,
+      "description": "Echinocactus Grusonii is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3086,
+      "common_name": "Agave Americana",
+      "family": "Asparagaceae",
+      "categories": "Succulent",
+      "origin": "Chile",
+      "climate": "Desert",
+      "zone": [
+        7,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Agave+Americana",
+      "price": 419,
+      "selling_price": 230,
+      "discount_percent": 45,
+      "rating": 4.1,
+      "description": "Agave Americana is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3087,
+      "common_name": "Haworthia Cymbiformis",
+      "family": "Asphodelaceae",
+      "categories": "Succulent",
+      "origin": "India",
+      "climate": "Dry & Sunny",
+      "zone": [
+        7,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Haworthia+Cymbiformis",
+      "price": 768,
+      "selling_price": 597,
+      "discount_percent": 22,
+      "rating": 4.8,
+      "description": "Haworthia Cymbiformis is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3088,
+      "common_name": "Echeveria Lola",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Australia",
+      "climate": "Dry & Sunny",
+      "zone": [
+        9,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Echeveria+Lola",
+      "price": 426,
+      "selling_price": 262,
+      "discount_percent": 38,
+      "rating": 4.2,
+      "description": "Echeveria Lola is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3089,
+      "common_name": "Senecio Serpens",
+      "family": "Asteraceae",
+      "categories": "Succulent",
+      "origin": "Madagascar",
+      "climate": "Warm & Dry",
+      "zone": [
+        10,
+        12
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Senecio+Serpens",
+      "price": 399,
+      "selling_price": 323,
+      "discount_percent": 19,
+      "rating": 4.2,
+      "description": "Senecio Serpens is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3090,
+      "common_name": "Anacampseros Rufescens",
+      "family": "Portulacaceae",
+      "categories": "Succulent",
+      "origin": "South Africa",
+      "climate": "Temperate",
+      "zone": [
+        8,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Anacampseros+Rufescens",
+      "price": 172,
+      "selling_price": 135,
+      "discount_percent": 21,
+      "rating": 4.8,
+      "description": "Anacampseros Rufescens is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3091,
+      "common_name": "Gollum Jade",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "India",
+      "climate": "Desert",
+      "zone": [
+        7,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Gollum+Jade",
+      "price": 449,
+      "selling_price": 398,
+      "discount_percent": 11,
+      "rating": 4.4,
+      "description": "Gollum Jade is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3092,
+      "common_name": "Kalanchoe Luciae",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Morocco",
+      "climate": "Dry & Sunny",
+      "zone": [
+        9,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Kalanchoe+Luciae",
+      "price": 282,
+      "selling_price": 252,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "description": "Kalanchoe Luciae is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3093,
+      "common_name": "Stapelia Variegata",
+      "family": "Apocynaceae",
+      "categories": "Succulent",
+      "origin": "Morocco",
+      "climate": "Desert",
+      "zone": [
+        8,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Stapelia+Variegata",
+      "price": 327,
+      "selling_price": 235,
+      "discount_percent": 28,
+      "rating": 4.4,
+      "description": "Stapelia Variegata is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3094,
+      "common_name": "Rhipsalis",
+      "family": "Cactaceae",
+      "categories": "Cactus",
+      "origin": "Australia",
+      "climate": "Warm & Dry",
+      "zone": [
+        8,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Rhipsalis",
+      "price": 515,
+      "selling_price": 335,
+      "discount_percent": 34,
+      "rating": 4.9,
+      "description": "Rhipsalis is a cactus known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3095,
+      "common_name": "Adromischus Maculatus",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Namibia",
+      "climate": "Subtropical",
+      "zone": [
+        10,
+        13
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Adromischus+Maculatus",
+      "price": 258,
+      "selling_price": 195,
+      "discount_percent": 24,
+      "rating": 4.1,
+      "description": "Adromischus Maculatus is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3096,
+      "common_name": "Bulbine Frutescens",
+      "family": "Asphodelaceae",
+      "categories": "Succulent",
+      "origin": "Ethiopia",
+      "climate": "Warm & Dry",
+      "zone": [
+        7,
+        8
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Bulbine+Frutescens",
+      "price": 453,
+      "selling_price": 320,
+      "discount_percent": 29,
+      "rating": 4.2,
+      "description": "Bulbine Frutescens is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3097,
+      "common_name": "Orostachys Iwanagae",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Brazil",
+      "climate": "Dry & Sunny",
+      "zone": [
+        8,
+        9
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Orostachys+Iwanagae",
+      "price": 382,
+      "selling_price": 300,
+      "discount_percent": 21,
+      "rating": 4.2,
+      "description": "Orostachys Iwanagae is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3098,
+      "common_name": "Sedum Sediforme",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Namibia",
+      "climate": "Tropical & Semi-Arid",
+      "zone": [
+        10,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Sedum+Sediforme",
+      "price": 234,
+      "selling_price": 180,
+      "discount_percent": 23,
+      "rating": 4.8,
+      "description": "Sedum Sediforme is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3099,
+      "common_name": "Blue Velvet",
+      "family": "Crassulaceae",
+      "categories": "Succulent",
+      "origin": "Ethiopia",
+      "climate": "Subtropical",
+      "zone": [
+        8,
+        10
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Blue+Velvet",
+      "price": 828,
+      "selling_price": 520,
+      "discount_percent": 37,
+      "rating": 4.7,
+      "description": "Blue Velvet is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    },
+    {
+      "id": 3100,
+      "common_name": "Aloe Vera",
+      "family": "Asphodelaceae",
+      "categories": "Succulent",
+      "origin": "Madagascar",
+      "climate": "Dry & Sunny",
+      "zone": [
+        8,
+        11
+      ],
+      "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Aloe+Vera",
+      "price": 858,
+      "selling_price": 571,
+      "discount_percent": 33,
+      "rating": 4.5,
+      "description": "Aloe Vera is a succulent known for its attractive form and easy care.",
+      "benefits": [
+        "Low maintenance",
+        "Adds greenery to indoor spaces",
+        "Good for dry climates",
+        "Aesthetic decorative plant"
+      ],
+      "steps_to_grow": [
+        "Place in bright indirect light",
+        "Water sparingly; allow soil to dry between watering",
+        "Use well-draining cactus/succulent soil",
+        "Protect from frost and overwatering"
+      ]
+    }
+  ]
+}

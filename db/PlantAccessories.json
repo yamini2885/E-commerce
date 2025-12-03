@@ -1,0 +1,1054 @@
+{
+    "PlantAccessories": [
+        {
+            "id": 5000,
+            "name": "Accessory Item 1",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-0.jpg",
+            "price": 257,
+            "selling_price": 570,
+            "discount_percent": 20,
+            "rating": 4.7,
+            "description": "Accessory Item 1 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5001,
+            "name": "Accessory Item 2",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-1.jpg",
+            "price": 698,
+            "selling_price": 427,
+            "discount_percent": 18,
+            "rating": 4.6,
+            "description": "Accessory Item 2 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5002,
+            "name": "Accessory Item 3",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-2.jpg",
+            "price": 903,
+            "selling_price": 710,
+            "discount_percent": 27,
+            "rating": 4.2,
+            "description": "Accessory Item 3 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5003,
+            "name": "Accessory Item 4",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-3.jpg",
+            "price": 137,
+            "selling_price": 699,
+            "discount_percent": 10,
+            "rating": 4.1,
+            "description": "Accessory Item 4 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5004,
+            "name": "Accessory Item 5",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-4.jpg",
+            "price": 893,
+            "selling_price": 216,
+            "discount_percent": 23,
+            "rating": 4.7,
+            "description": "Accessory Item 5 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5005,
+            "name": "Accessory Item 6",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-5.jpg",
+            "price": 314,
+            "selling_price": 702,
+            "discount_percent": 16,
+            "rating": 4.7,
+            "description": "Accessory Item 6 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5006,
+            "name": "Accessory Item 7",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-6.jpg",
+            "price": 740,
+            "selling_price": 745,
+            "discount_percent": 25,
+            "rating": 5.0,
+            "description": "Accessory Item 7 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5007,
+            "name": "Accessory Item 8",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-7.jpg",
+            "price": 897,
+            "selling_price": 503,
+            "discount_percent": 10,
+            "rating": 4.9,
+            "description": "Accessory Item 8 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5008,
+            "name": "Accessory Item 9",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-8.jpg",
+            "price": 354,
+            "selling_price": 473,
+            "discount_percent": 22,
+            "rating": 4.2,
+            "description": "Accessory Item 9 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5009,
+            "name": "Accessory Item 10",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-9.jpg",
+            "price": 473,
+            "selling_price": 369,
+            "discount_percent": 23,
+            "rating": 4.6,
+            "description": "Accessory Item 10 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5010,
+            "name": "Accessory Item 11",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-10.jpg",
+            "price": 486,
+            "selling_price": 398,
+            "discount_percent": 15,
+            "rating": 4.8,
+            "description": "Accessory Item 11 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5011,
+            "name": "Accessory Item 12",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-11.jpg",
+            "price": 806,
+            "selling_price": 284,
+            "discount_percent": 11,
+            "rating": 4.4,
+            "description": "Accessory Item 12 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5012,
+            "name": "Accessory Item 13",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-12.jpg",
+            "price": 605,
+            "selling_price": 238,
+            "discount_percent": 18,
+            "rating": 4.5,
+            "description": "Accessory Item 13 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5013,
+            "name": "Accessory Item 14",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-13.jpg",
+            "price": 511,
+            "selling_price": 425,
+            "discount_percent": 13,
+            "rating": 4.6,
+            "description": "Accessory Item 14 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5014,
+            "name": "Accessory Item 15",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-14.jpg",
+            "price": 975,
+            "selling_price": 137,
+            "discount_percent": 28,
+            "rating": 4.5,
+            "description": "Accessory Item 15 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5015,
+            "name": "Accessory Item 16",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-15.jpg",
+            "price": 550,
+            "selling_price": 414,
+            "discount_percent": 23,
+            "rating": 4.7,
+            "description": "Accessory Item 16 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5016,
+            "name": "Accessory Item 17",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-16.jpg",
+            "price": 557,
+            "selling_price": 617,
+            "discount_percent": 35,
+            "rating": 4.3,
+            "description": "Accessory Item 17 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5017,
+            "name": "Accessory Item 18",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-17.jpg",
+            "price": 408,
+            "selling_price": 139,
+            "discount_percent": 16,
+            "rating": 4.6,
+            "description": "Accessory Item 18 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5018,
+            "name": "Accessory Item 19",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-18.jpg",
+            "price": 778,
+            "selling_price": 332,
+            "discount_percent": 30,
+            "rating": 4.4,
+            "description": "Accessory Item 19 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5019,
+            "name": "Accessory Item 20",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-19.jpg",
+            "price": 751,
+            "selling_price": 782,
+            "discount_percent": 29,
+            "rating": 4.7,
+            "description": "Accessory Item 20 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5020,
+            "name": "Accessory Item 21",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-20.jpg",
+            "price": 538,
+            "selling_price": 286,
+            "discount_percent": 27,
+            "rating": 4.2,
+            "description": "Accessory Item 21 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5021,
+            "name": "Accessory Item 22",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-21.jpg",
+            "price": 443,
+            "selling_price": 167,
+            "discount_percent": 29,
+            "rating": 5.0,
+            "description": "Accessory Item 22 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5022,
+            "name": "Accessory Item 23",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-22.jpg",
+            "price": 605,
+            "selling_price": 500,
+            "discount_percent": 28,
+            "rating": 4.4,
+            "description": "Accessory Item 23 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5023,
+            "name": "Accessory Item 24",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-23.jpg",
+            "price": 553,
+            "selling_price": 533,
+            "discount_percent": 13,
+            "rating": 4.5,
+            "description": "Accessory Item 24 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5024,
+            "name": "Accessory Item 25",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-24.jpg",
+            "price": 393,
+            "selling_price": 757,
+            "discount_percent": 26,
+            "rating": 4.8,
+            "description": "Accessory Item 25 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5025,
+            "name": "Accessory Item 26",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-25.jpg",
+            "price": 588,
+            "selling_price": 306,
+            "discount_percent": 25,
+            "rating": 4.4,
+            "description": "Accessory Item 26 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5026,
+            "name": "Accessory Item 27",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-26.jpg",
+            "price": 808,
+            "selling_price": 417,
+            "discount_percent": 24,
+            "rating": 4.1,
+            "description": "Accessory Item 27 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5027,
+            "name": "Accessory Item 28",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-27.jpg",
+            "price": 651,
+            "selling_price": 306,
+            "discount_percent": 33,
+            "rating": 4.8,
+            "description": "Accessory Item 28 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5028,
+            "name": "Accessory Item 29",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-28.jpg",
+            "price": 825,
+            "selling_price": 506,
+            "discount_percent": 35,
+            "rating": 4.9,
+            "description": "Accessory Item 29 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5029,
+            "name": "Accessory Item 30",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-29.jpg",
+            "price": 135,
+            "selling_price": 617,
+            "discount_percent": 27,
+            "rating": 4.9,
+            "description": "Accessory Item 30 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5030,
+            "name": "Accessory Item 31",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-30.jpg",
+            "price": 564,
+            "selling_price": 248,
+            "discount_percent": 10,
+            "rating": 4.4,
+            "description": "Accessory Item 31 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5031,
+            "name": "Accessory Item 32",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-31.jpg",
+            "price": 371,
+            "selling_price": 387,
+            "discount_percent": 14,
+            "rating": 4.4,
+            "description": "Accessory Item 32 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5032,
+            "name": "Accessory Item 33",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-32.jpg",
+            "price": 930,
+            "selling_price": 717,
+            "discount_percent": 28,
+            "rating": 4.3,
+            "description": "Accessory Item 33 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5033,
+            "name": "Accessory Item 34",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-33.jpg",
+            "price": 249,
+            "selling_price": 242,
+            "discount_percent": 12,
+            "rating": 4.9,
+            "description": "Accessory Item 34 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5034,
+            "name": "Accessory Item 35",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-34.jpg",
+            "price": 808,
+            "selling_price": 128,
+            "discount_percent": 30,
+            "rating": 4.5,
+            "description": "Accessory Item 35 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5035,
+            "name": "Accessory Item 36",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-35.jpg",
+            "price": 938,
+            "selling_price": 340,
+            "discount_percent": 16,
+            "rating": 5.0,
+            "description": "Accessory Item 36 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5036,
+            "name": "Accessory Item 37",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-36.jpg",
+            "price": 798,
+            "selling_price": 89,
+            "discount_percent": 17,
+            "rating": 4.9,
+            "description": "Accessory Item 37 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5037,
+            "name": "Accessory Item 38",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-37.jpg",
+            "price": 707,
+            "selling_price": 737,
+            "discount_percent": 28,
+            "rating": 4.9,
+            "description": "Accessory Item 38 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5038,
+            "name": "Accessory Item 39",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-38.jpg",
+            "price": 557,
+            "selling_price": 769,
+            "discount_percent": 23,
+            "rating": 4.2,
+            "description": "Accessory Item 39 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5039,
+            "name": "Accessory Item 40",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-39.jpg",
+            "price": 376,
+            "selling_price": 416,
+            "discount_percent": 14,
+            "rating": 4.8,
+            "description": "Accessory Item 40 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5040,
+            "name": "Accessory Item 41",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-40.jpg",
+            "price": 932,
+            "selling_price": 640,
+            "discount_percent": 19,
+            "rating": 4.9,
+            "description": "Accessory Item 41 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5041,
+            "name": "Accessory Item 42",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-41.jpg",
+            "price": 400,
+            "selling_price": 556,
+            "discount_percent": 10,
+            "rating": 4.7,
+            "description": "Accessory Item 42 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5042,
+            "name": "Accessory Item 43",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-42.jpg",
+            "price": 583,
+            "selling_price": 781,
+            "discount_percent": 30,
+            "rating": 4.8,
+            "description": "Accessory Item 43 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5043,
+            "name": "Accessory Item 44",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-43.jpg",
+            "price": 850,
+            "selling_price": 682,
+            "discount_percent": 20,
+            "rating": 4.2,
+            "description": "Accessory Item 44 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5044,
+            "name": "Accessory Item 45",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-44.jpg",
+            "price": 500,
+            "selling_price": 274,
+            "discount_percent": 21,
+            "rating": 4.7,
+            "description": "Accessory Item 45 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5045,
+            "name": "Accessory Item 46",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-45.jpg",
+            "price": 142,
+            "selling_price": 409,
+            "discount_percent": 21,
+            "rating": 4.9,
+            "description": "Accessory Item 46 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5046,
+            "name": "Accessory Item 47",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-46.jpg",
+            "price": 366,
+            "selling_price": 743,
+            "discount_percent": 12,
+            "rating": 4.9,
+            "description": "Accessory Item 47 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5047,
+            "name": "Accessory Item 48",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-47.jpg",
+            "price": 810,
+            "selling_price": 490,
+            "discount_percent": 34,
+            "rating": 5.0,
+            "description": "Accessory Item 48 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5048,
+            "name": "Accessory Item 49",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-48.jpg",
+            "price": 712,
+            "selling_price": 431,
+            "discount_percent": 11,
+            "rating": 4.1,
+            "description": "Accessory Item 49 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        },
+        {
+            "id": 5049,
+            "name": "Accessory Item 50",
+            "category": "Plant Accessory",
+            "img_url": "https://example.com/accessory-49.jpg",
+            "price": 842,
+            "selling_price": 528,
+            "discount_percent": 35,
+            "rating": 4.3,
+            "description": "Accessory Item 50 is a helpful accessory for gardening and plant maintenance.",
+            "benefits": [
+                "Enhances plant growth",
+                "Improves gardening efficiency",
+                "Durable and easy to use"
+            ],
+            "usage_steps": [
+                "Unpack the accessory",
+                "Use as instructed",
+                "Store properly after use"
+            ]
+        }
+    ]
+}
